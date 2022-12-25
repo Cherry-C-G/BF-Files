@@ -1,0 +1,15 @@
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\obj\Debug\net6.0\Palindrome.csproj.AssemblyReference.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\obj\Debug\net6.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfoInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfo.cs
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\obj\Debug\net6.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\bin\Debug\net6.0\Palindrome.exe
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\bin\Debug\net6.0\Palindrome.deps.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\bin\Debug\net6.0\Palindrome.runtimeconfig.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\bin\Debug\net6.0\Palindrome.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\bin\Debug\net6.0\Palindrome.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\obj\Debug\net6.0\Palindrome.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\obj\Debug\net6.0\refint\Palindrome.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\obj\Debug\net6.0\Palindrome.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\obj\Debug\net6.0\Palindrome.genruntimeconfig.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Palindrome\obj\Debug\net6.0\ref\Palindrome.dll

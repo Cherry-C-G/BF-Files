@@ -1,0 +1,15 @@
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\obj\Debug\net6.0\CreditCard.csproj.AssemblyReference.cache
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\obj\Debug\net6.0\CreditCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\obj\Debug\net6.0\CreditCard.AssemblyInfoInputs.cache
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\obj\Debug\net6.0\CreditCard.AssemblyInfo.cs
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\obj\Debug\net6.0\CreditCard.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\bin\Debug\net6.0\CreditCard.exe
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\bin\Debug\net6.0\CreditCard.deps.json
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\bin\Debug\net6.0\CreditCard.runtimeconfig.json
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\bin\Debug\net6.0\CreditCard.dll
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\bin\Debug\net6.0\CreditCard.pdb
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\obj\Debug\net6.0\CreditCard.dll
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\obj\Debug\net6.0\refint\CreditCard.dll
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\obj\Debug\net6.0\CreditCard.pdb
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\obj\Debug\net6.0\CreditCard.genruntimeconfig.cache
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\CreditCard\obj\Debug\net6.0\ref\CreditCard.dll

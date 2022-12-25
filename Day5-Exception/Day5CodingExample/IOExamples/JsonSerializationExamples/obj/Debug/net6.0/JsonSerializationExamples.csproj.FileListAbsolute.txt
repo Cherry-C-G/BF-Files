@@ -1,0 +1,17 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\bin\Debug\net6.0\JsonSerializationExamples.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\bin\Debug\net6.0\JsonSerializationExamples.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\bin\Debug\net6.0\JsonSerializationExamples.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\bin\Debug\net6.0\JsonSerializationExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\bin\Debug\net6.0\JsonSerializationExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\obj\Debug\net6.0\JsonSerializationExamples.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\obj\Debug\net6.0\JsonSerializationExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\obj\Debug\net6.0\JsonSerializationExamples.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\obj\Debug\net6.0\JsonSerializationExamples.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\obj\Debug\net6.0\JsonSerializationExamples.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\obj\Debug\net6.0\JsonSerializationExamples.csproj.CopyComplete
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\obj\Debug\net6.0\JsonSerializationExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\obj\Debug\net6.0\refint\JsonSerializationExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\obj\Debug\net6.0\JsonSerializationExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\obj\Debug\net6.0\JsonSerializationExamples.genruntimeconfig.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\JsonSerializationExamples\obj\Debug\net6.0\ref\JsonSerializationExamples.dll

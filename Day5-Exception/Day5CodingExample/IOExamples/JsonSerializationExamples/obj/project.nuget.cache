@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWw+5/ZLCRVpZE4RaCGoPLgMBOlc6yAwq/U2dwgo/eBETRZnjUwMdiGfhBK4bOeDkAhOKpkxCaAukflHYIxcVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gongl\\OneDrive\\Documents\\Work\\C#.net\\November_Batch\\Day05_Exception\\IOExamples\\JsonSerializationExamples\\JsonSerializationExamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gongl\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

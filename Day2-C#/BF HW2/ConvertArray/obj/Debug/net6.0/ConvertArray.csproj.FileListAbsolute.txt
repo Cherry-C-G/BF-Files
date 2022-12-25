@@ -1,0 +1,15 @@
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\bin\Debug\net6.0\ConvertArray.exe
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\bin\Debug\net6.0\ConvertArray.deps.json
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\bin\Debug\net6.0\ConvertArray.runtimeconfig.json
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\bin\Debug\net6.0\ConvertArray.dll
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\bin\Debug\net6.0\ConvertArray.pdb
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\obj\Debug\net6.0\ConvertArray.csproj.AssemblyReference.cache
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\obj\Debug\net6.0\ConvertArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\obj\Debug\net6.0\ConvertArray.AssemblyInfoInputs.cache
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\obj\Debug\net6.0\ConvertArray.AssemblyInfo.cs
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\obj\Debug\net6.0\ConvertArray.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\obj\Debug\net6.0\ConvertArray.dll
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\obj\Debug\net6.0\refint\ConvertArray.dll
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\obj\Debug\net6.0\ConvertArray.pdb
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\obj\Debug\net6.0\ConvertArray.genruntimeconfig.cache
+C:\Beaconfire\Day2-C#\BF HW2\ConvertArray\obj\Debug\net6.0\ref\ConvertArray.dll

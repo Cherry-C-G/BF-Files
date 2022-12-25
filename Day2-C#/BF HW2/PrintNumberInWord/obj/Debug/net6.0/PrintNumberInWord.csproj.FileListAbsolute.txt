@@ -1,0 +1,15 @@
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\bin\Debug\net6.0\PrintNumberInWord.exe
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\bin\Debug\net6.0\PrintNumberInWord.deps.json
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\bin\Debug\net6.0\PrintNumberInWord.runtimeconfig.json
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\bin\Debug\net6.0\PrintNumberInWord.dll
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\bin\Debug\net6.0\PrintNumberInWord.pdb
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\obj\Debug\net6.0\PrintNumberInWord.csproj.AssemblyReference.cache
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\obj\Debug\net6.0\PrintNumberInWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\obj\Debug\net6.0\PrintNumberInWord.AssemblyInfoInputs.cache
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\obj\Debug\net6.0\PrintNumberInWord.AssemblyInfo.cs
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\obj\Debug\net6.0\PrintNumberInWord.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\obj\Debug\net6.0\PrintNumberInWord.dll
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\obj\Debug\net6.0\refint\PrintNumberInWord.dll
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\obj\Debug\net6.0\PrintNumberInWord.pdb
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\obj\Debug\net6.0\PrintNumberInWord.genruntimeconfig.cache
+C:\Beaconfire\Day2-C#\BF HW2\PrintNumberInWord\obj\Debug\net6.0\ref\PrintNumberInWord.dll

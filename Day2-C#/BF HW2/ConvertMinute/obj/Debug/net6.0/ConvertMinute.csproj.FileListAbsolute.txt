@@ -1,0 +1,15 @@
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\bin\Debug\net6.0\ConvertMinute.exe
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\bin\Debug\net6.0\ConvertMinute.deps.json
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\bin\Debug\net6.0\ConvertMinute.runtimeconfig.json
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\bin\Debug\net6.0\ConvertMinute.dll
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\bin\Debug\net6.0\ConvertMinute.pdb
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\obj\Debug\net6.0\ConvertMinute.csproj.AssemblyReference.cache
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\obj\Debug\net6.0\ConvertMinute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\obj\Debug\net6.0\ConvertMinute.AssemblyInfoInputs.cache
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\obj\Debug\net6.0\ConvertMinute.AssemblyInfo.cs
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\obj\Debug\net6.0\ConvertMinute.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\obj\Debug\net6.0\ConvertMinute.dll
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\obj\Debug\net6.0\refint\ConvertMinute.dll
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\obj\Debug\net6.0\ConvertMinute.pdb
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\obj\Debug\net6.0\ConvertMinute.genruntimeconfig.cache
+C:\Beaconfire\Day2-C#\BF HW2\ConvertMinute\obj\Debug\net6.0\ref\ConvertMinute.dll

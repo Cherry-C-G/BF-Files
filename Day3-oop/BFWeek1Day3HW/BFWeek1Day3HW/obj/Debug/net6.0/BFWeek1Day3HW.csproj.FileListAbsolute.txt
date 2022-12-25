@@ -1,0 +1,15 @@
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\obj\Debug\net6.0\BFWeek1Day3HW.csproj.AssemblyReference.cache
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\obj\Debug\net6.0\BFWeek1Day3HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\obj\Debug\net6.0\BFWeek1Day3HW.AssemblyInfoInputs.cache
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\obj\Debug\net6.0\BFWeek1Day3HW.AssemblyInfo.cs
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\obj\Debug\net6.0\BFWeek1Day3HW.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\bin\Debug\net6.0\BFWeek1Day3HW.exe
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\bin\Debug\net6.0\BFWeek1Day3HW.deps.json
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\bin\Debug\net6.0\BFWeek1Day3HW.runtimeconfig.json
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\bin\Debug\net6.0\BFWeek1Day3HW.dll
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\bin\Debug\net6.0\BFWeek1Day3HW.pdb
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\obj\Debug\net6.0\BFWeek1Day3HW.dll
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\obj\Debug\net6.0\refint\BFWeek1Day3HW.dll
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\obj\Debug\net6.0\BFWeek1Day3HW.pdb
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\obj\Debug\net6.0\BFWeek1Day3HW.genruntimeconfig.cache
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\BFWeek1Day3HW\obj\Debug\net6.0\ref\BFWeek1Day3HW.dll

@@ -1,0 +1,17 @@
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\bin\Debug\net6.0\GuessingGame.exe
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\bin\Debug\net6.0\GuessingGame.deps.json
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\bin\Debug\net6.0\GuessingGame.runtimeconfig.json
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\bin\Debug\net6.0\GuessingGame.dll
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\bin\Debug\net6.0\GuessingGame.pdb
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\bin\Debug\net6.0\Console.Cin.dll
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\obj\Debug\net6.0\GuessingGame.csproj.AssemblyReference.cache
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\obj\Debug\net6.0\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\obj\Debug\net6.0\GuessingGame.AssemblyInfoInputs.cache
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\obj\Debug\net6.0\GuessingGame.AssemblyInfo.cs
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\obj\Debug\net6.0\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\obj\Debug\net6.0\GuessingGame.csproj.CopyComplete
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\obj\Debug\net6.0\GuessingGame.dll
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\obj\Debug\net6.0\refint\GuessingGame.dll
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\obj\Debug\net6.0\GuessingGame.pdb
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\obj\Debug\net6.0\GuessingGame.genruntimeconfig.cache
+C:\Beaconfire\Day3-oop\BFWeek1Day3HW\GuessingGame\obj\Debug\net6.0\ref\GuessingGame.dll

@@ -1,0 +1,15 @@
+/Users/djx/Projects/week1day2/5/bin/Debug/net7.0/5
+/Users/djx/Projects/week1day2/5/bin/Debug/net7.0/5.deps.json
+/Users/djx/Projects/week1day2/5/bin/Debug/net7.0/5.runtimeconfig.json
+/Users/djx/Projects/week1day2/5/bin/Debug/net7.0/5.dll
+/Users/djx/Projects/week1day2/5/bin/Debug/net7.0/5.pdb
+/Users/djx/Projects/week1day2/5/obj/Debug/net7.0/5.csproj.AssemblyReference.cache
+/Users/djx/Projects/week1day2/5/obj/Debug/net7.0/5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djx/Projects/week1day2/5/obj/Debug/net7.0/5.AssemblyInfoInputs.cache
+/Users/djx/Projects/week1day2/5/obj/Debug/net7.0/5.AssemblyInfo.cs
+/Users/djx/Projects/week1day2/5/obj/Debug/net7.0/5.csproj.CoreCompileInputs.cache
+/Users/djx/Projects/week1day2/5/obj/Debug/net7.0/5.dll
+/Users/djx/Projects/week1day2/5/obj/Debug/net7.0/refint/5.dll
+/Users/djx/Projects/week1day2/5/obj/Debug/net7.0/5.pdb
+/Users/djx/Projects/week1day2/5/obj/Debug/net7.0/5.genruntimeconfig.cache
+/Users/djx/Projects/week1day2/5/obj/Debug/net7.0/ref/5.dll

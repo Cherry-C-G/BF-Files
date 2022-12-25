@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\bin\Debug\net6.0\TryCatchExamples.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\bin\Debug\net6.0\TryCatchExamples.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\bin\Debug\net6.0\TryCatchExamples.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\bin\Debug\net6.0\TryCatchExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\bin\Debug\net6.0\TryCatchExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\obj\Debug\net6.0\TryCatchExamples.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\obj\Debug\net6.0\TryCatchExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\obj\Debug\net6.0\TryCatchExamples.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\obj\Debug\net6.0\TryCatchExamples.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\obj\Debug\net6.0\TryCatchExamples.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\obj\Debug\net6.0\TryCatchExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\obj\Debug\net6.0\refint\TryCatchExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\obj\Debug\net6.0\TryCatchExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\obj\Debug\net6.0\TryCatchExamples.genruntimeconfig.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\TryCatchExamples\obj\Debug\net6.0\ref\TryCatchExamples.dll

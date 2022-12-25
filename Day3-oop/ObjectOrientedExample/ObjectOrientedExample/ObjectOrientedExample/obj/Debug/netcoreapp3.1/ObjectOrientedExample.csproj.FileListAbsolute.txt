@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\bin\Debug\netcoreapp3.1\ObjectOrientedExample.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\bin\Debug\netcoreapp3.1\ObjectOrientedExample.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\bin\Debug\netcoreapp3.1\ObjectOrientedExample.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\bin\Debug\netcoreapp3.1\ObjectOrientedExample.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\bin\Debug\netcoreapp3.1\ObjectOrientedExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\bin\Debug\netcoreapp3.1\ObjectOrientedExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\netcoreapp3.1\ObjectOrientedExample.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\netcoreapp3.1\ObjectOrientedExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\netcoreapp3.1\ObjectOrientedExample.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\netcoreapp3.1\ObjectOrientedExample.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\netcoreapp3.1\ObjectOrientedExample.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\netcoreapp3.1\ObjectOrientedExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\netcoreapp3.1\ObjectOrientedExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\ObjectOrientedExample\obj\Debug\netcoreapp3.1\ObjectOrientedExample.genruntimeconfig.cache

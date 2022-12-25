@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\bin\Debug\netcoreapp3.1\TupleExample.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\bin\Debug\netcoreapp3.1\TupleExample.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\bin\Debug\netcoreapp3.1\TupleExample.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\bin\Debug\netcoreapp3.1\TupleExample.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\bin\Debug\netcoreapp3.1\TupleExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\bin\Debug\netcoreapp3.1\TupleExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\obj\Debug\netcoreapp3.1\TupleExample.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\obj\Debug\netcoreapp3.1\TupleExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\obj\Debug\netcoreapp3.1\TupleExample.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\obj\Debug\netcoreapp3.1\TupleExample.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\obj\Debug\netcoreapp3.1\TupleExample.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\obj\Debug\netcoreapp3.1\TupleExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\obj\Debug\netcoreapp3.1\TupleExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\TupleExample\obj\Debug\netcoreapp3.1\TupleExample.genruntimeconfig.cache

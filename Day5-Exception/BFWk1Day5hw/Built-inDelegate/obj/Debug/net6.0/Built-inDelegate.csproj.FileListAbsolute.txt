@@ -1,0 +1,15 @@
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\obj\Debug\net6.0\Built-inDelegate.csproj.AssemblyReference.cache
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\obj\Debug\net6.0\Built-inDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\obj\Debug\net6.0\Built-inDelegate.AssemblyInfoInputs.cache
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\obj\Debug\net6.0\Built-inDelegate.AssemblyInfo.cs
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\obj\Debug\net6.0\Built-inDelegate.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\bin\Debug\net6.0\Built-inDelegate.exe
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\bin\Debug\net6.0\Built-inDelegate.deps.json
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\bin\Debug\net6.0\Built-inDelegate.runtimeconfig.json
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\bin\Debug\net6.0\Built-inDelegate.dll
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\bin\Debug\net6.0\Built-inDelegate.pdb
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\obj\Debug\net6.0\Built-inDelegate.dll
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\obj\Debug\net6.0\refint\Built-inDelegate.dll
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\obj\Debug\net6.0\Built-inDelegate.pdb
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\obj\Debug\net6.0\Built-inDelegate.genruntimeconfig.cache
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\Built-inDelegate\obj\Debug\net6.0\ref\Built-inDelegate.dll

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{9186F782-DA9F-43FF-976E-AC416172AD4A}|Default">
+  <MonoDevelop.Ide.ItemProperties.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.9 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="5/Program.cs">
+    <Files>
+      <File FileName="week1day2/EmptyClass.cs" Line="13" Column="59" />
+      <File FileName="2/Program.cs" Line="10" Column="50" />
+      <File FileName="3/Program.cs" Line="8" Column="29" />
+      <File FileName="4/Program.cs" Line="17" Column="17" />
+      <File FileName="5/Program.cs" Line="23" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="week1day2" expanded="True">
+            <Node name="5" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.6 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\bin\Debug\net6.0\BFWk1Day4HW.exe
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\bin\Debug\net6.0\BFWk1Day4HW.deps.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\bin\Debug\net6.0\BFWk1Day4HW.runtimeconfig.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\bin\Debug\net6.0\BFWk1Day4HW.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\bin\Debug\net6.0\BFWk1Day4HW.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\obj\Debug\net6.0\BFWk1Day4HW.csproj.AssemblyReference.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\obj\Debug\net6.0\BFWk1Day4HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\obj\Debug\net6.0\BFWk1Day4HW.AssemblyInfoInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\obj\Debug\net6.0\BFWk1Day4HW.AssemblyInfo.cs
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\obj\Debug\net6.0\BFWk1Day4HW.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\obj\Debug\net6.0\BFWk1Day4HW.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\obj\Debug\net6.0\refint\BFWk1Day4HW.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\obj\Debug\net6.0\BFWk1Day4HW.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\obj\Debug\net6.0\BFWk1Day4HW.genruntimeconfig.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\BFWk1Day4HW\obj\Debug\net6.0\ref\BFWk1Day4HW.dll

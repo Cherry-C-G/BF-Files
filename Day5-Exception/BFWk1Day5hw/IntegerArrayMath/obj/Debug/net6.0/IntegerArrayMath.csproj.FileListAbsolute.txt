@@ -1,0 +1,15 @@
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\bin\Debug\net6.0\IntegerArrayMath.exe
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\bin\Debug\net6.0\IntegerArrayMath.deps.json
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\bin\Debug\net6.0\IntegerArrayMath.runtimeconfig.json
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\bin\Debug\net6.0\IntegerArrayMath.dll
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\bin\Debug\net6.0\IntegerArrayMath.pdb
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\obj\Debug\net6.0\IntegerArrayMath.csproj.AssemblyReference.cache
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\obj\Debug\net6.0\IntegerArrayMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\obj\Debug\net6.0\IntegerArrayMath.AssemblyInfoInputs.cache
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\obj\Debug\net6.0\IntegerArrayMath.AssemblyInfo.cs
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\obj\Debug\net6.0\IntegerArrayMath.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\obj\Debug\net6.0\IntegerArrayMath.dll
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\obj\Debug\net6.0\refint\IntegerArrayMath.dll
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\obj\Debug\net6.0\IntegerArrayMath.pdb
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\obj\Debug\net6.0\IntegerArrayMath.genruntimeconfig.cache
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\IntegerArrayMath\obj\Debug\net6.0\ref\IntegerArrayMath.dll

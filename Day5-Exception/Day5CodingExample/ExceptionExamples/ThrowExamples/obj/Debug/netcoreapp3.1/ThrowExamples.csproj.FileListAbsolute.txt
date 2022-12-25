@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\bin\Debug\netcoreapp3.1\ThrowExamples.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\bin\Debug\netcoreapp3.1\ThrowExamples.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\bin\Debug\netcoreapp3.1\ThrowExamples.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\bin\Debug\netcoreapp3.1\ThrowExamples.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\bin\Debug\netcoreapp3.1\ThrowExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\bin\Debug\netcoreapp3.1\ThrowExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\obj\Debug\netcoreapp3.1\ThrowExamples.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\obj\Debug\netcoreapp3.1\ThrowExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\obj\Debug\netcoreapp3.1\ThrowExamples.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\obj\Debug\netcoreapp3.1\ThrowExamples.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\obj\Debug\netcoreapp3.1\ThrowExamples.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\obj\Debug\netcoreapp3.1\ThrowExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\obj\Debug\netcoreapp3.1\ThrowExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\ThrowExamples\obj\Debug\netcoreapp3.1\ThrowExamples.genruntimeconfig.cache

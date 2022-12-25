@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BFWk1Day4HW/1.0.0": {
+        "runtime": {
+          "BFWk1Day4HW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BFWk1Day4HW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

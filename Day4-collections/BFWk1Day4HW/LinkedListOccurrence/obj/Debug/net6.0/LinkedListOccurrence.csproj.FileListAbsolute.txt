@@ -1,0 +1,15 @@
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\bin\Debug\net6.0\LinkedListOccurrence.exe
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\bin\Debug\net6.0\LinkedListOccurrence.deps.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\bin\Debug\net6.0\LinkedListOccurrence.runtimeconfig.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\bin\Debug\net6.0\LinkedListOccurrence.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\bin\Debug\net6.0\LinkedListOccurrence.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\obj\Debug\net6.0\LinkedListOccurrence.csproj.AssemblyReference.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\obj\Debug\net6.0\LinkedListOccurrence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\obj\Debug\net6.0\LinkedListOccurrence.AssemblyInfoInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\obj\Debug\net6.0\LinkedListOccurrence.AssemblyInfo.cs
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\obj\Debug\net6.0\LinkedListOccurrence.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\obj\Debug\net6.0\LinkedListOccurrence.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\obj\Debug\net6.0\refint\LinkedListOccurrence.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\obj\Debug\net6.0\LinkedListOccurrence.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\obj\Debug\net6.0\LinkedListOccurrence.genruntimeconfig.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\LinkedListOccurrence\obj\Debug\net6.0\ref\LinkedListOccurrence.dll

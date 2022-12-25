@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\bin\Debug\netcoreapp3.1\StaticExample.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\bin\Debug\netcoreapp3.1\StaticExample.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\bin\Debug\netcoreapp3.1\StaticExample.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\bin\Debug\netcoreapp3.1\StaticExample.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\bin\Debug\netcoreapp3.1\StaticExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\bin\Debug\netcoreapp3.1\StaticExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\obj\Debug\netcoreapp3.1\StaticExample.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\obj\Debug\netcoreapp3.1\StaticExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\obj\Debug\netcoreapp3.1\StaticExample.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\obj\Debug\netcoreapp3.1\StaticExample.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\obj\Debug\netcoreapp3.1\StaticExample.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\obj\Debug\netcoreapp3.1\StaticExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\obj\Debug\netcoreapp3.1\StaticExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day03_OOP\ObjectOrientedExample\StaticExample\obj\Debug\netcoreapp3.1\StaticExample.genruntimeconfig.cache

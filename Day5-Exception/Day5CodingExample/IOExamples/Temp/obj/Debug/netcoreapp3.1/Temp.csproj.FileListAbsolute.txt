@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\bin\Debug\netcoreapp3.1\Temp.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\bin\Debug\netcoreapp3.1\Temp.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\bin\Debug\netcoreapp3.1\Temp.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\bin\Debug\netcoreapp3.1\Temp.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\bin\Debug\netcoreapp3.1\Temp.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\bin\Debug\netcoreapp3.1\Temp.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\obj\Debug\netcoreapp3.1\Temp.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\obj\Debug\netcoreapp3.1\Temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\obj\Debug\netcoreapp3.1\Temp.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\obj\Debug\netcoreapp3.1\Temp.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\obj\Debug\netcoreapp3.1\Temp.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\obj\Debug\netcoreapp3.1\Temp.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\obj\Debug\netcoreapp3.1\Temp.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\Temp\obj\Debug\netcoreapp3.1\Temp.genruntimeconfig.cache

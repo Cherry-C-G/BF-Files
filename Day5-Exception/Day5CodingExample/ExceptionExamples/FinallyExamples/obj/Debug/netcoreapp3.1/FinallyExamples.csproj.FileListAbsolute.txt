@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\bin\Debug\netcoreapp3.1\FinallyExamples.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\bin\Debug\netcoreapp3.1\FinallyExamples.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\bin\Debug\netcoreapp3.1\FinallyExamples.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\bin\Debug\netcoreapp3.1\FinallyExamples.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\bin\Debug\netcoreapp3.1\FinallyExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\bin\Debug\netcoreapp3.1\FinallyExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\obj\Debug\netcoreapp3.1\FinallyExamples.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\obj\Debug\netcoreapp3.1\FinallyExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\obj\Debug\netcoreapp3.1\FinallyExamples.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\obj\Debug\netcoreapp3.1\FinallyExamples.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\obj\Debug\netcoreapp3.1\FinallyExamples.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\obj\Debug\netcoreapp3.1\FinallyExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\obj\Debug\netcoreapp3.1\FinallyExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\FinallyExamples\obj\Debug\netcoreapp3.1\FinallyExamples.genruntimeconfig.cache

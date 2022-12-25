@@ -1,0 +1,15 @@
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\bin\Debug\net6.0\Comparison.exe
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\bin\Debug\net6.0\Comparison.deps.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\bin\Debug\net6.0\Comparison.runtimeconfig.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\bin\Debug\net6.0\Comparison.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\bin\Debug\net6.0\Comparison.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\obj\Debug\net6.0\Comparison.csproj.AssemblyReference.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\obj\Debug\net6.0\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\obj\Debug\net6.0\Comparison.AssemblyInfoInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\obj\Debug\net6.0\Comparison.AssemblyInfo.cs
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\obj\Debug\net6.0\Comparison.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\obj\Debug\net6.0\Comparison.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\obj\Debug\net6.0\refint\Comparison.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\obj\Debug\net6.0\Comparison.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\obj\Debug\net6.0\Comparison.genruntimeconfig.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\Comparison\obj\Debug\net6.0\ref\Comparison.dll

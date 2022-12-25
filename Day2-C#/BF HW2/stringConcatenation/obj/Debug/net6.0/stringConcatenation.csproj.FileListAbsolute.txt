@@ -1,0 +1,15 @@
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\bin\Debug\net6.0\stringConcatenation.exe
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\bin\Debug\net6.0\stringConcatenation.deps.json
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\bin\Debug\net6.0\stringConcatenation.runtimeconfig.json
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\bin\Debug\net6.0\stringConcatenation.dll
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\bin\Debug\net6.0\stringConcatenation.pdb
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\obj\Debug\net6.0\stringConcatenation.csproj.AssemblyReference.cache
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\obj\Debug\net6.0\stringConcatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\obj\Debug\net6.0\stringConcatenation.AssemblyInfoInputs.cache
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\obj\Debug\net6.0\stringConcatenation.AssemblyInfo.cs
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\obj\Debug\net6.0\stringConcatenation.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\obj\Debug\net6.0\stringConcatenation.dll
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\obj\Debug\net6.0\refint\stringConcatenation.dll
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\obj\Debug\net6.0\stringConcatenation.pdb
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\obj\Debug\net6.0\stringConcatenation.genruntimeconfig.cache
+C:\Beaconfire\Day2-C#\BF HW2\stringConcatenation\obj\Debug\net6.0\ref\stringConcatenation.dll

@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\bin\Debug\netcoreapp3.1\BuildInDelegateExample.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\bin\Debug\netcoreapp3.1\BuildInDelegateExample.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\bin\Debug\netcoreapp3.1\BuildInDelegateExample.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\bin\Debug\netcoreapp3.1\BuildInDelegateExample.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\bin\Debug\netcoreapp3.1\BuildInDelegateExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\bin\Debug\netcoreapp3.1\BuildInDelegateExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\obj\Debug\netcoreapp3.1\BuildInDelegateExample.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\obj\Debug\netcoreapp3.1\BuildInDelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\obj\Debug\netcoreapp3.1\BuildInDelegateExample.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\obj\Debug\netcoreapp3.1\BuildInDelegateExample.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\obj\Debug\netcoreapp3.1\BuildInDelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\obj\Debug\netcoreapp3.1\BuildInDelegateExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\obj\Debug\netcoreapp3.1\BuildInDelegateExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\DelegateAndLambdaExamples\BuildInDelegateExample\obj\Debug\netcoreapp3.1\BuildInDelegateExample.genruntimeconfig.cache

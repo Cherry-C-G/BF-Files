@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\bin\Debug\netcoreapp3.1\StreamReaderNWriterExample.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\bin\Debug\netcoreapp3.1\StreamReaderNWriterExample.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\bin\Debug\netcoreapp3.1\StreamReaderNWriterExample.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\bin\Debug\netcoreapp3.1\StreamReaderNWriterExample.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\bin\Debug\netcoreapp3.1\StreamReaderNWriterExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\bin\Debug\netcoreapp3.1\StreamReaderNWriterExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\obj\Debug\netcoreapp3.1\StreamReaderNWriterExample.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\obj\Debug\netcoreapp3.1\StreamReaderNWriterExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\obj\Debug\netcoreapp3.1\StreamReaderNWriterExample.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\obj\Debug\netcoreapp3.1\StreamReaderNWriterExample.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\obj\Debug\netcoreapp3.1\StreamReaderNWriterExample.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\obj\Debug\netcoreapp3.1\StreamReaderNWriterExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\obj\Debug\netcoreapp3.1\StreamReaderNWriterExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\StreamReaderNWriterExample\obj\Debug\netcoreapp3.1\StreamReaderNWriterExample.genruntimeconfig.cache

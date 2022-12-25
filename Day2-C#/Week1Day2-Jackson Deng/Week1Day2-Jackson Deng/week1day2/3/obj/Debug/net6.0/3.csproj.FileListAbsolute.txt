@@ -1,0 +1,15 @@
+/Users/djx/Projects/week1day2/3/bin/Debug/net6.0/3
+/Users/djx/Projects/week1day2/3/bin/Debug/net6.0/3.deps.json
+/Users/djx/Projects/week1day2/3/bin/Debug/net6.0/3.runtimeconfig.json
+/Users/djx/Projects/week1day2/3/bin/Debug/net6.0/3.dll
+/Users/djx/Projects/week1day2/3/bin/Debug/net6.0/3.pdb
+/Users/djx/Projects/week1day2/3/obj/Debug/net6.0/3.csproj.AssemblyReference.cache
+/Users/djx/Projects/week1day2/3/obj/Debug/net6.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djx/Projects/week1day2/3/obj/Debug/net6.0/3.AssemblyInfoInputs.cache
+/Users/djx/Projects/week1day2/3/obj/Debug/net6.0/3.AssemblyInfo.cs
+/Users/djx/Projects/week1day2/3/obj/Debug/net6.0/3.csproj.CoreCompileInputs.cache
+/Users/djx/Projects/week1day2/3/obj/Debug/net6.0/3.dll
+/Users/djx/Projects/week1day2/3/obj/Debug/net6.0/refint/3.dll
+/Users/djx/Projects/week1day2/3/obj/Debug/net6.0/3.pdb
+/Users/djx/Projects/week1day2/3/obj/Debug/net6.0/3.genruntimeconfig.cache
+/Users/djx/Projects/week1day2/3/obj/Debug/net6.0/ref/3.dll

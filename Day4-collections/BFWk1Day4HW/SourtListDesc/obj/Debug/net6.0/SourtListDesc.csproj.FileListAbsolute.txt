@@ -1,0 +1,15 @@
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\bin\Debug\net6.0\SourtListDesc.exe
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\bin\Debug\net6.0\SourtListDesc.deps.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\bin\Debug\net6.0\SourtListDesc.runtimeconfig.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\bin\Debug\net6.0\SourtListDesc.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\bin\Debug\net6.0\SourtListDesc.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\obj\Debug\net6.0\SourtListDesc.csproj.AssemblyReference.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\obj\Debug\net6.0\SourtListDesc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\obj\Debug\net6.0\SourtListDesc.AssemblyInfoInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\obj\Debug\net6.0\SourtListDesc.AssemblyInfo.cs
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\obj\Debug\net6.0\SourtListDesc.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\obj\Debug\net6.0\SourtListDesc.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\obj\Debug\net6.0\refint\SourtListDesc.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\obj\Debug\net6.0\SourtListDesc.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\obj\Debug\net6.0\SourtListDesc.genruntimeconfig.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\SourtListDesc\obj\Debug\net6.0\ref\SourtListDesc.dll

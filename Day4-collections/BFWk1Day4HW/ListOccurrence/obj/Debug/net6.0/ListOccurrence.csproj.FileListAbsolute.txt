@@ -1,0 +1,15 @@
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\bin\Debug\net6.0\ListOccurrence.exe
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\bin\Debug\net6.0\ListOccurrence.deps.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\bin\Debug\net6.0\ListOccurrence.runtimeconfig.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\bin\Debug\net6.0\ListOccurrence.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\bin\Debug\net6.0\ListOccurrence.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\obj\Debug\net6.0\ListOccurrence.csproj.AssemblyReference.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\obj\Debug\net6.0\ListOccurrence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\obj\Debug\net6.0\ListOccurrence.AssemblyInfoInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\obj\Debug\net6.0\ListOccurrence.AssemblyInfo.cs
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\obj\Debug\net6.0\ListOccurrence.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\obj\Debug\net6.0\ListOccurrence.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\obj\Debug\net6.0\refint\ListOccurrence.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\obj\Debug\net6.0\ListOccurrence.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\obj\Debug\net6.0\ListOccurrence.genruntimeconfig.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\ListOccurrence\obj\Debug\net6.0\ref\ListOccurrence.dll

@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\bin\Debug\netcoreapp3.1\IOExamples.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\bin\Debug\netcoreapp3.1\IOExamples.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\bin\Debug\netcoreapp3.1\IOExamples.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\bin\Debug\netcoreapp3.1\IOExamples.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\bin\Debug\netcoreapp3.1\IOExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\bin\Debug\netcoreapp3.1\IOExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\obj\Debug\netcoreapp3.1\IOExamples.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\obj\Debug\netcoreapp3.1\IOExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\obj\Debug\netcoreapp3.1\IOExamples.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\obj\Debug\netcoreapp3.1\IOExamples.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\obj\Debug\netcoreapp3.1\IOExamples.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\obj\Debug\netcoreapp3.1\IOExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\obj\Debug\netcoreapp3.1\IOExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\IOExamples\obj\Debug\netcoreapp3.1\IOExamples.genruntimeconfig.cache

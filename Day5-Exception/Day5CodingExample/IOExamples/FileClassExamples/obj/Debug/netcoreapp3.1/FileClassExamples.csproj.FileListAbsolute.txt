@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\bin\Debug\netcoreapp3.1\FileClassExamples.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\bin\Debug\netcoreapp3.1\FileClassExamples.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\bin\Debug\netcoreapp3.1\FileClassExamples.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\bin\Debug\netcoreapp3.1\FileClassExamples.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\bin\Debug\netcoreapp3.1\FileClassExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\bin\Debug\netcoreapp3.1\FileClassExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\obj\Debug\netcoreapp3.1\FileClassExamples.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\obj\Debug\netcoreapp3.1\FileClassExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\obj\Debug\netcoreapp3.1\FileClassExamples.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\obj\Debug\netcoreapp3.1\FileClassExamples.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\obj\Debug\netcoreapp3.1\FileClassExamples.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\obj\Debug\netcoreapp3.1\FileClassExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\obj\Debug\netcoreapp3.1\FileClassExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\FileClassExamples\obj\Debug\netcoreapp3.1\FileClassExamples.genruntimeconfig.cache

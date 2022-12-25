@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UkShfjuNbwI17HdWkBVS+2mYpFmD0wxnB3OG37eyOZTQa3DsTj/oC9kfAH6fvnWyds58TCuxrwzh5hKlq1X61w==",
+  "success": true,
+  "projectFilePath": "C:\\Beaconfire\\Day3-oop\\BFWeek1Day3HW\\GuessingGame\\GuessingGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celia\\.nuget\\packages\\nakov.io.cin\\2.0.2.1\\nakov.io.cin.2.0.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

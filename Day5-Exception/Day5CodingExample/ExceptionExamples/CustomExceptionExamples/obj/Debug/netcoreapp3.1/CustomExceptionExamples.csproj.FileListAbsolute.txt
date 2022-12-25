@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\bin\Debug\netcoreapp3.1\CustomExceptionExamples.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\bin\Debug\netcoreapp3.1\CustomExceptionExamples.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\bin\Debug\netcoreapp3.1\CustomExceptionExamples.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\bin\Debug\netcoreapp3.1\CustomExceptionExamples.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\bin\Debug\netcoreapp3.1\CustomExceptionExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\bin\Debug\netcoreapp3.1\CustomExceptionExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\obj\Debug\netcoreapp3.1\CustomExceptionExamples.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\obj\Debug\netcoreapp3.1\CustomExceptionExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\obj\Debug\netcoreapp3.1\CustomExceptionExamples.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\obj\Debug\netcoreapp3.1\CustomExceptionExamples.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\obj\Debug\netcoreapp3.1\CustomExceptionExamples.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\obj\Debug\netcoreapp3.1\CustomExceptionExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\obj\Debug\netcoreapp3.1\CustomExceptionExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\ExceptionExamples\CustomExceptionExamples\obj\Debug\netcoreapp3.1\CustomExceptionExamples.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\bin\Debug\net6.0\BFWk1Day5hw.exe
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\bin\Debug\net6.0\BFWk1Day5hw.deps.json
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\bin\Debug\net6.0\BFWk1Day5hw.runtimeconfig.json
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\bin\Debug\net6.0\BFWk1Day5hw.dll
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\bin\Debug\net6.0\BFWk1Day5hw.pdb
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\obj\Debug\net6.0\BFWk1Day5hw.csproj.AssemblyReference.cache
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\obj\Debug\net6.0\BFWk1Day5hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\obj\Debug\net6.0\BFWk1Day5hw.AssemblyInfoInputs.cache
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\obj\Debug\net6.0\BFWk1Day5hw.AssemblyInfo.cs
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\obj\Debug\net6.0\BFWk1Day5hw.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\obj\Debug\net6.0\BFWk1Day5hw.dll
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\obj\Debug\net6.0\refint\BFWk1Day5hw.dll
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\obj\Debug\net6.0\BFWk1Day5hw.pdb
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\obj\Debug\net6.0\BFWk1Day5hw.genruntimeconfig.cache
+C:\Beaconfire\Day5-Exception\BFWk1Day5hw\BFWk1Day5hw\obj\Debug\net6.0\ref\BFWk1Day5hw.dll

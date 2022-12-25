@@ -1,0 +1,15 @@
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\bin\Debug\net6.0\DNA.exe
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\bin\Debug\net6.0\DNA.deps.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\bin\Debug\net6.0\DNA.runtimeconfig.json
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\bin\Debug\net6.0\DNA.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\bin\Debug\net6.0\DNA.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\obj\Debug\net6.0\DNA.csproj.AssemblyReference.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\obj\Debug\net6.0\DNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\obj\Debug\net6.0\DNA.AssemblyInfoInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\obj\Debug\net6.0\DNA.AssemblyInfo.cs
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\obj\Debug\net6.0\DNA.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\obj\Debug\net6.0\DNA.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\obj\Debug\net6.0\refint\DNA.dll
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\obj\Debug\net6.0\DNA.pdb
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\obj\Debug\net6.0\DNA.genruntimeconfig.cache
+C:\Beaconfire\Day4-collections\BFWk1Day4HW\DNA\obj\Debug\net6.0\ref\DNA.dll

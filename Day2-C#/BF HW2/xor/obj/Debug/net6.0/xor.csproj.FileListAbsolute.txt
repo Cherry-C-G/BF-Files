@@ -1,0 +1,15 @@
+C:\Beaconfire\Day2-C#\BF HW2\xor\obj\Debug\net6.0\xor.csproj.AssemblyReference.cache
+C:\Beaconfire\Day2-C#\BF HW2\xor\obj\Debug\net6.0\xor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day2-C#\BF HW2\xor\obj\Debug\net6.0\xor.AssemblyInfoInputs.cache
+C:\Beaconfire\Day2-C#\BF HW2\xor\obj\Debug\net6.0\xor.AssemblyInfo.cs
+C:\Beaconfire\Day2-C#\BF HW2\xor\obj\Debug\net6.0\xor.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day2-C#\BF HW2\xor\bin\Debug\net6.0\xor.exe
+C:\Beaconfire\Day2-C#\BF HW2\xor\bin\Debug\net6.0\xor.deps.json
+C:\Beaconfire\Day2-C#\BF HW2\xor\bin\Debug\net6.0\xor.runtimeconfig.json
+C:\Beaconfire\Day2-C#\BF HW2\xor\bin\Debug\net6.0\xor.dll
+C:\Beaconfire\Day2-C#\BF HW2\xor\bin\Debug\net6.0\xor.pdb
+C:\Beaconfire\Day2-C#\BF HW2\xor\obj\Debug\net6.0\xor.dll
+C:\Beaconfire\Day2-C#\BF HW2\xor\obj\Debug\net6.0\refint\xor.dll
+C:\Beaconfire\Day2-C#\BF HW2\xor\obj\Debug\net6.0\xor.pdb
+C:\Beaconfire\Day2-C#\BF HW2\xor\obj\Debug\net6.0\xor.genruntimeconfig.cache
+C:\Beaconfire\Day2-C#\BF HW2\xor\obj\Debug\net6.0\ref\xor.dll

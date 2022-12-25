@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\bin\Debug\netcoreapp3.1\StringExamples.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\bin\Debug\netcoreapp3.1\StringExamples.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\bin\Debug\netcoreapp3.1\StringExamples.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\bin\Debug\netcoreapp3.1\StringExamples.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\bin\Debug\netcoreapp3.1\StringExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\bin\Debug\netcoreapp3.1\StringExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day02_C#Basic\CSharpBasicExamples\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.genruntimeconfig.cache

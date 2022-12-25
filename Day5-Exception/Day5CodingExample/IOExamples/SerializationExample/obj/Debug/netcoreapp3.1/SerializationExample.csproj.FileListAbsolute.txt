@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\bin\Debug\netcoreapp3.1\SerializationExample.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\bin\Debug\netcoreapp3.1\SerializationExample.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\bin\Debug\netcoreapp3.1\SerializationExample.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\bin\Debug\netcoreapp3.1\SerializationExample.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\bin\Debug\netcoreapp3.1\SerializationExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\bin\Debug\netcoreapp3.1\SerializationExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\obj\Debug\netcoreapp3.1\SerializationExample.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\obj\Debug\netcoreapp3.1\SerializationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\obj\Debug\netcoreapp3.1\SerializationExample.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\obj\Debug\netcoreapp3.1\SerializationExample.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\obj\Debug\netcoreapp3.1\SerializationExample.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\obj\Debug\netcoreapp3.1\SerializationExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\obj\Debug\netcoreapp3.1\SerializationExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day05_Exception\IOExamples\SerializationExample\obj\Debug\netcoreapp3.1\SerializationExample.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\bin\Debug\net6.0\OccurrenceOfMaxNum.exe
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\bin\Debug\net6.0\OccurrenceOfMaxNum.deps.json
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\bin\Debug\net6.0\OccurrenceOfMaxNum.runtimeconfig.json
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\bin\Debug\net6.0\OccurrenceOfMaxNum.dll
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\bin\Debug\net6.0\OccurrenceOfMaxNum.pdb
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\obj\Debug\net6.0\OccurrenceOfMaxNum.csproj.AssemblyReference.cache
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\obj\Debug\net6.0\OccurrenceOfMaxNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\obj\Debug\net6.0\OccurrenceOfMaxNum.AssemblyInfoInputs.cache
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\obj\Debug\net6.0\OccurrenceOfMaxNum.AssemblyInfo.cs
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\obj\Debug\net6.0\OccurrenceOfMaxNum.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\obj\Debug\net6.0\OccurrenceOfMaxNum.dll
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\obj\Debug\net6.0\refint\OccurrenceOfMaxNum.dll
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\obj\Debug\net6.0\OccurrenceOfMaxNum.pdb
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\obj\Debug\net6.0\OccurrenceOfMaxNum.genruntimeconfig.cache
+C:\Beaconfire\Day2-C#\BF HW2\OccurrenceOfMaxNum\obj\Debug\net6.0\ref\OccurrenceOfMaxNum.dll
