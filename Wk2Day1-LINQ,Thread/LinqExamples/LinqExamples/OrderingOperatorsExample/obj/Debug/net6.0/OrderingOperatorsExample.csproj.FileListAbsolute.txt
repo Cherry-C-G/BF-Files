@@ -1,0 +1,15 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\bin\Debug\net6.0\OrderingOperatorsExample.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\bin\Debug\net6.0\OrderingOperatorsExample.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\bin\Debug\net6.0\OrderingOperatorsExample.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\bin\Debug\net6.0\OrderingOperatorsExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\bin\Debug\net6.0\OrderingOperatorsExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\obj\Debug\net6.0\OrderingOperatorsExample.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\obj\Debug\net6.0\OrderingOperatorsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\obj\Debug\net6.0\OrderingOperatorsExample.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\obj\Debug\net6.0\OrderingOperatorsExample.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\obj\Debug\net6.0\OrderingOperatorsExample.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\obj\Debug\net6.0\OrderingOperatorsExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\obj\Debug\net6.0\refint\OrderingOperatorsExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\obj\Debug\net6.0\OrderingOperatorsExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\obj\Debug\net6.0\OrderingOperatorsExample.genruntimeconfig.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\OrderingOperatorsExample\obj\Debug\net6.0\ref\OrderingOperatorsExample.dll

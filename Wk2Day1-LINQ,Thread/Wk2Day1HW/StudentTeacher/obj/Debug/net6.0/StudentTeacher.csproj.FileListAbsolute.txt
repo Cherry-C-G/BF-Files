@@ -1,0 +1,15 @@
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\bin\Debug\net6.0\StudentTeacher.exe
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\bin\Debug\net6.0\StudentTeacher.deps.json
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\bin\Debug\net6.0\StudentTeacher.runtimeconfig.json
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\bin\Debug\net6.0\StudentTeacher.dll
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\bin\Debug\net6.0\StudentTeacher.pdb
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\obj\Debug\net6.0\StudentTeacher.csproj.AssemblyReference.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\obj\Debug\net6.0\StudentTeacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\obj\Debug\net6.0\StudentTeacher.AssemblyInfoInputs.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\obj\Debug\net6.0\StudentTeacher.AssemblyInfo.cs
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\obj\Debug\net6.0\StudentTeacher.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\obj\Debug\net6.0\StudentTeacher.dll
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\obj\Debug\net6.0\refint\StudentTeacher.dll
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\obj\Debug\net6.0\StudentTeacher.pdb
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\obj\Debug\net6.0\StudentTeacher.genruntimeconfig.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\StudentTeacher\obj\Debug\net6.0\ref\StudentTeacher.dll

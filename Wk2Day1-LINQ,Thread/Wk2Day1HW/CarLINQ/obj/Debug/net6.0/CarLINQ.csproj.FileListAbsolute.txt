@@ -1,0 +1,15 @@
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\bin\Debug\net6.0\CarLINQ.exe
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\bin\Debug\net6.0\CarLINQ.deps.json
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\bin\Debug\net6.0\CarLINQ.runtimeconfig.json
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\bin\Debug\net6.0\CarLINQ.dll
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\bin\Debug\net6.0\CarLINQ.pdb
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\obj\Debug\net6.0\CarLINQ.csproj.AssemblyReference.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\obj\Debug\net6.0\CarLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\obj\Debug\net6.0\CarLINQ.AssemblyInfoInputs.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\obj\Debug\net6.0\CarLINQ.AssemblyInfo.cs
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\obj\Debug\net6.0\CarLINQ.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\obj\Debug\net6.0\CarLINQ.dll
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\obj\Debug\net6.0\refint\CarLINQ.dll
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\obj\Debug\net6.0\CarLINQ.pdb
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\obj\Debug\net6.0\CarLINQ.genruntimeconfig.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\CarLINQ\obj\Debug\net6.0\ref\CarLINQ.dll

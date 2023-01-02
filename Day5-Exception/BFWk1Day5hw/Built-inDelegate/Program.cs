@@ -17,9 +17,9 @@ namespace Built_inDelegate
     public class Exam
     {
         // Output the result based on the student's score
-        public void PassExamWithoutDelegate(Student s)
+        public void PassExamWithDelegate(Student s)
         {
-            if (s.Score >= 70)
+            if (s.Score >= 60)
             {
                 Console.WriteLine("Pass! Score = {0}", s.Score);
             }
@@ -43,21 +43,33 @@ namespace Built_inDelegate
     {
         static void Main(string[] args)
         {
-            Student student = new Student() { Score = 60, Name = "Alan" };
-            Student student2 = new Student() { Score = 82, Name = "Lily" };
+            Student student = new Student() { Score = 55, Name = "Sunny" };
+            Student student1 = new Student() { Score = 100, Name = "Daisy" };
             Exam exam = new Exam();
-            Console.WriteLine("Result for w/out Delegate: ");
-            exam.PassExamWithoutDelegate(student);
-            exam.PassExamWithoutDelegate(student2);
+            //Console.WriteLine("Result for w/out Delegate: ");
+            //exam.PassExamWithoutDelegate(student);
+            //exam.PassExamWithoutDelegate(student1);
 
             Console.WriteLine("Result for w Delegate: ");
             PassExamDelegate d = NewPassExamRule2;
+            PassExamDelegate d1 = NewPassExamRule1;
             exam.PassExamWithDelegate(d, student);
-            exam.PassExamWithoutDelegate(student2);
+            exam.PassExamWithDelegate(d1,student1);
 
         }
 
+        public static void NewPassExamRule1(Student s)
+        {
+            if (s.Score >= 70)
+            {
+                Console.WriteLine("Pass! Score = {0}", s.Score);
+            }
+            else
+            {
+                Console.WriteLine("Fail! Score = {0}", s.Score);
+            }
 
+        }
         public static void NewPassExamRule2(Student s)
         {
             if (s.Score >= 60)

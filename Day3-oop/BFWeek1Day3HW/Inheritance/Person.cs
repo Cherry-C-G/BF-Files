@@ -33,6 +33,7 @@ namespace Inheritance
             Junior,
             Senior
         }
+        //public Student() { };
         public Student(String name, String address, String phoneNumber, String emailAddress, String status)
         {
             status = status;

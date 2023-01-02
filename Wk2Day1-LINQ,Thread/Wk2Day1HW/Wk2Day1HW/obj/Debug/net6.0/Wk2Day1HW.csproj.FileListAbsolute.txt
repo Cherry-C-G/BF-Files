@@ -1,0 +1,15 @@
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\bin\Debug\net6.0\Wk2Day1HW.exe
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\bin\Debug\net6.0\Wk2Day1HW.deps.json
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\bin\Debug\net6.0\Wk2Day1HW.runtimeconfig.json
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\bin\Debug\net6.0\Wk2Day1HW.dll
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\bin\Debug\net6.0\Wk2Day1HW.pdb
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\obj\Debug\net6.0\Wk2Day1HW.csproj.AssemblyReference.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\obj\Debug\net6.0\Wk2Day1HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\obj\Debug\net6.0\Wk2Day1HW.AssemblyInfoInputs.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\obj\Debug\net6.0\Wk2Day1HW.AssemblyInfo.cs
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\obj\Debug\net6.0\Wk2Day1HW.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\obj\Debug\net6.0\Wk2Day1HW.dll
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\obj\Debug\net6.0\refint\Wk2Day1HW.dll
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\obj\Debug\net6.0\Wk2Day1HW.pdb
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\obj\Debug\net6.0\Wk2Day1HW.genruntimeconfig.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\Wk2Day1HW\obj\Debug\net6.0\ref\Wk2Day1HW.dll

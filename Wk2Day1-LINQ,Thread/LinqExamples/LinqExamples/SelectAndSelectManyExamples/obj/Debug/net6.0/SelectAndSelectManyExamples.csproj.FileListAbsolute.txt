@@ -1,0 +1,15 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\bin\Debug\net6.0\SelectAndSelectManyExamples.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\bin\Debug\net6.0\SelectAndSelectManyExamples.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\bin\Debug\net6.0\SelectAndSelectManyExamples.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\bin\Debug\net6.0\SelectAndSelectManyExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\bin\Debug\net6.0\SelectAndSelectManyExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\obj\Debug\net6.0\SelectAndSelectManyExamples.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\obj\Debug\net6.0\SelectAndSelectManyExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\obj\Debug\net6.0\SelectAndSelectManyExamples.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\obj\Debug\net6.0\SelectAndSelectManyExamples.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\obj\Debug\net6.0\SelectAndSelectManyExamples.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\obj\Debug\net6.0\SelectAndSelectManyExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\obj\Debug\net6.0\refint\SelectAndSelectManyExamples.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\obj\Debug\net6.0\SelectAndSelectManyExamples.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\obj\Debug\net6.0\SelectAndSelectManyExamples.genruntimeconfig.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\LinqExamples\obj\Debug\net6.0\ref\SelectAndSelectManyExamples.dll

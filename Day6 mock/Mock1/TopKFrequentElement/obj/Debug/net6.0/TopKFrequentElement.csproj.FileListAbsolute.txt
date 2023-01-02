@@ -1,0 +1,15 @@
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\bin\Debug\net6.0\TopKFrequentElement.exe
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\bin\Debug\net6.0\TopKFrequentElement.deps.json
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\bin\Debug\net6.0\TopKFrequentElement.runtimeconfig.json
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\bin\Debug\net6.0\TopKFrequentElement.dll
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\bin\Debug\net6.0\TopKFrequentElement.pdb
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\obj\Debug\net6.0\TopKFrequentElement.csproj.AssemblyReference.cache
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\obj\Debug\net6.0\TopKFrequentElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\obj\Debug\net6.0\TopKFrequentElement.AssemblyInfoInputs.cache
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\obj\Debug\net6.0\TopKFrequentElement.AssemblyInfo.cs
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\obj\Debug\net6.0\TopKFrequentElement.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\obj\Debug\net6.0\TopKFrequentElement.dll
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\obj\Debug\net6.0\refint\TopKFrequentElement.dll
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\obj\Debug\net6.0\TopKFrequentElement.pdb
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\obj\Debug\net6.0\TopKFrequentElement.genruntimeconfig.cache
+C:\Beaconfire\Day6 mock\Mock1\TopKFrequentElement\obj\Debug\net6.0\ref\TopKFrequentElement.dll

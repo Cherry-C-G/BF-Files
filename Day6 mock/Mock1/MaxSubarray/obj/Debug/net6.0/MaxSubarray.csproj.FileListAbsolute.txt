@@ -1,0 +1,15 @@
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\bin\Debug\net6.0\MaxSubarray.exe
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\bin\Debug\net6.0\MaxSubarray.deps.json
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\bin\Debug\net6.0\MaxSubarray.runtimeconfig.json
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\bin\Debug\net6.0\MaxSubarray.dll
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\bin\Debug\net6.0\MaxSubarray.pdb
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\obj\Debug\net6.0\MaxSubarray.csproj.AssemblyReference.cache
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\obj\Debug\net6.0\MaxSubarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\obj\Debug\net6.0\MaxSubarray.AssemblyInfoInputs.cache
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\obj\Debug\net6.0\MaxSubarray.AssemblyInfo.cs
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\obj\Debug\net6.0\MaxSubarray.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\obj\Debug\net6.0\MaxSubarray.dll
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\obj\Debug\net6.0\refint\MaxSubarray.dll
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\obj\Debug\net6.0\MaxSubarray.pdb
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\obj\Debug\net6.0\MaxSubarray.genruntimeconfig.cache
+C:\Beaconfire\Day6 mock\Mock1\MaxSubarray\obj\Debug\net6.0\ref\MaxSubarray.dll

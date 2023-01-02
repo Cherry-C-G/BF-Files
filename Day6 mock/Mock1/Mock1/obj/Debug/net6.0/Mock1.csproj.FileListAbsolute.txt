@@ -1,0 +1,15 @@
+C:\Beaconfire\Day6 mock\Mock1\Mock1\bin\Debug\net6.0\Mock1.exe
+C:\Beaconfire\Day6 mock\Mock1\Mock1\bin\Debug\net6.0\Mock1.deps.json
+C:\Beaconfire\Day6 mock\Mock1\Mock1\bin\Debug\net6.0\Mock1.runtimeconfig.json
+C:\Beaconfire\Day6 mock\Mock1\Mock1\bin\Debug\net6.0\Mock1.dll
+C:\Beaconfire\Day6 mock\Mock1\Mock1\bin\Debug\net6.0\Mock1.pdb
+C:\Beaconfire\Day6 mock\Mock1\Mock1\obj\Debug\net6.0\Mock1.csproj.AssemblyReference.cache
+C:\Beaconfire\Day6 mock\Mock1\Mock1\obj\Debug\net6.0\Mock1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Day6 mock\Mock1\Mock1\obj\Debug\net6.0\Mock1.AssemblyInfoInputs.cache
+C:\Beaconfire\Day6 mock\Mock1\Mock1\obj\Debug\net6.0\Mock1.AssemblyInfo.cs
+C:\Beaconfire\Day6 mock\Mock1\Mock1\obj\Debug\net6.0\Mock1.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Day6 mock\Mock1\Mock1\obj\Debug\net6.0\Mock1.dll
+C:\Beaconfire\Day6 mock\Mock1\Mock1\obj\Debug\net6.0\refint\Mock1.dll
+C:\Beaconfire\Day6 mock\Mock1\Mock1\obj\Debug\net6.0\Mock1.pdb
+C:\Beaconfire\Day6 mock\Mock1\Mock1\obj\Debug\net6.0\Mock1.genruntimeconfig.cache
+C:\Beaconfire\Day6 mock\Mock1\Mock1\obj\Debug\net6.0\ref\Mock1.dll

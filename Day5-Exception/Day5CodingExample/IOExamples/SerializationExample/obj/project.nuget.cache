@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EiekoYGFuXHWavxl3GXq+wJKa4BG2UqKKslI1Pds3z1QCp7hQqRM6HdYggtVMB8+FFRIuQ9J9ng3RBpOmQc9Ng==",
+  "dgSpecHash": "5m99tALircNO/hijiY7bTuIBT4vn2bBPR9bX9+jYP0GaWMEIk8vkquw7GQOH4xmKcdiyD+32RbA+afU9yAei7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gongl\\OneDrive\\Documents\\Work\\C#.net\\November_Batch\\Day05_Exception\\IOExamples\\SerializationExample\\SerializationExample.csproj",
+  "projectFilePath": "C:\\Beaconfire\\Day5-Exception\\Day5CodingExample\\IOExamples\\SerializationExample\\SerializationExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

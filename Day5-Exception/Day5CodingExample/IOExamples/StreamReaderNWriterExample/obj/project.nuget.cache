@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GcxLllOpnyDd5eu9LUjF/pMNFT5NLX4z9Z5OBKA71ie4bsrsBj5m6xp4lX49hrx4i2yayMxG4lO3spDB7+mnwA==",
+  "dgSpecHash": "v46zj4NEjb/wbpj5C+tUvvAb/ySnokR2K7t8iZa9KjFL8mzMhF8eGxSzya36fVvvftOHkIb66vbKQ8KOP1iQNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gongl\\OneDrive\\Documents\\Work\\C#.net\\November_Batch\\Day05_Exception\\IOExamples\\StreamReaderNWriterExample\\StreamReaderNWriterExample.csproj",
+  "projectFilePath": "C:\\Beaconfire\\Day5-Exception\\Day5CodingExample\\IOExamples\\StreamReaderNWriterExample\\StreamReaderNWriterExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

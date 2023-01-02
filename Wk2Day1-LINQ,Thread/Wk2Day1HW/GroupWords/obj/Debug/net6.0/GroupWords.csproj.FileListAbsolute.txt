@@ -1,0 +1,15 @@
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\bin\Debug\net6.0\GroupWords.exe
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\bin\Debug\net6.0\GroupWords.deps.json
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\bin\Debug\net6.0\GroupWords.runtimeconfig.json
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\bin\Debug\net6.0\GroupWords.dll
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\bin\Debug\net6.0\GroupWords.pdb
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\obj\Debug\net6.0\GroupWords.csproj.AssemblyReference.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\obj\Debug\net6.0\GroupWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\obj\Debug\net6.0\GroupWords.AssemblyInfoInputs.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\obj\Debug\net6.0\GroupWords.AssemblyInfo.cs
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\obj\Debug\net6.0\GroupWords.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\obj\Debug\net6.0\GroupWords.dll
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\obj\Debug\net6.0\refint\GroupWords.dll
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\obj\Debug\net6.0\GroupWords.pdb
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\obj\Debug\net6.0\GroupWords.genruntimeconfig.cache
+C:\Beaconfire\Wk2Day1-LINQ,Thread\Wk2Day1HW\GroupWords\obj\Debug\net6.0\ref\GroupWords.dll

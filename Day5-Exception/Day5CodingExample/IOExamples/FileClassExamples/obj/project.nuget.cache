@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U5WTbQG25LCMu3O8XGhHXEcH0LxpU/P1cWAjpDStoyJ4szN3F0oZ3UUmuhvnOgx2u5urirVLGy1itjLY6o1//Q==",
+  "dgSpecHash": "rZBtv4fNiABOuNt87GghAGXFAgb4IkJFSMPiGmifgy4HLpKzRLj6xDdzJ3kJJuOUPEzU7z2MDK61FIfBYMROmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gongl\\OneDrive\\Documents\\Work\\C#.net\\November_Batch\\Day05_Exception\\IOExamples\\FileClassExamples\\FileClassExamples.csproj",
+  "projectFilePath": "C:\\Beaconfire\\Day5-Exception\\Day5CodingExample\\IOExamples\\FileClassExamples\\FileClassExamples.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

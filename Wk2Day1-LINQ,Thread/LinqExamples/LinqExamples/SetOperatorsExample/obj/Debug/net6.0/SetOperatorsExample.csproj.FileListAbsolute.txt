@@ -1,0 +1,15 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\bin\Debug\net6.0\SetOperatorsExample.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\bin\Debug\net6.0\SetOperatorsExample.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\bin\Debug\net6.0\SetOperatorsExample.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\bin\Debug\net6.0\SetOperatorsExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\bin\Debug\net6.0\SetOperatorsExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\obj\Debug\net6.0\SetOperatorsExample.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\obj\Debug\net6.0\SetOperatorsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\obj\Debug\net6.0\SetOperatorsExample.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\obj\Debug\net6.0\SetOperatorsExample.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\obj\Debug\net6.0\SetOperatorsExample.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\obj\Debug\net6.0\SetOperatorsExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\obj\Debug\net6.0\refint\SetOperatorsExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\obj\Debug\net6.0\SetOperatorsExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\obj\Debug\net6.0\SetOperatorsExample.genruntimeconfig.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\SetOperatorsExample\obj\Debug\net6.0\ref\SetOperatorsExample.dll

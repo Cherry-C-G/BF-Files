@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gongl\\OneDrive\\Documents\\Work\\C#.net\\November_Batch\\Day05_Exception\\IOExamples\\FileClassExamples\\FileClassExamples.csproj": {}
+    "C:\\Beaconfire\\Day5-Exception\\Day5CodingExample\\IOExamples\\FileClassExamples\\FileClassExamples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gongl\\OneDrive\\Documents\\Work\\C#.net\\November_Batch\\Day05_Exception\\IOExamples\\FileClassExamples\\FileClassExamples.csproj": {
+    "C:\\Beaconfire\\Day5-Exception\\Day5CodingExample\\IOExamples\\FileClassExamples\\FileClassExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gongl\\OneDrive\\Documents\\Work\\C#.net\\November_Batch\\Day05_Exception\\IOExamples\\FileClassExamples\\FileClassExamples.csproj",
+        "projectUniqueName": "C:\\Beaconfire\\Day5-Exception\\Day5CodingExample\\IOExamples\\FileClassExamples\\FileClassExamples.csproj",
         "projectName": "FileClassExamples",
-        "projectPath": "C:\\Users\\gongl\\OneDrive\\Documents\\Work\\C#.net\\November_Batch\\Day05_Exception\\IOExamples\\FileClassExamples\\FileClassExamples.csproj",
-        "packagesPath": "C:\\Users\\gongl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gongl\\OneDrive\\Documents\\Work\\C#.net\\November_Batch\\Day05_Exception\\IOExamples\\FileClassExamples\\obj\\",
+        "projectPath": "C:\\Beaconfire\\Day5-Exception\\Day5CodingExample\\IOExamples\\FileClassExamples\\FileClassExamples.csproj",
+        "packagesPath": "C:\\Users\\celia\\.nuget\\packages\\",
+        "outputPath": "C:\\Beaconfire\\Day5-Exception\\Day5CodingExample\\IOExamples\\FileClassExamples\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\gongl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\celia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\PersonalProject\\Tim's App\\Tornament Tracker\\TrackerLibrary\\bin\\Debug": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -45,8 +50,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

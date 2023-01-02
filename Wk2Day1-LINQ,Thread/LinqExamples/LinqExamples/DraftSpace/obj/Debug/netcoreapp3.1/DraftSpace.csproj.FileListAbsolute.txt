@@ -1,0 +1,14 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\bin\Debug\netcoreapp3.1\DraftSpace.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\bin\Debug\netcoreapp3.1\DraftSpace.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\bin\Debug\netcoreapp3.1\DraftSpace.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\bin\Debug\netcoreapp3.1\DraftSpace.runtimeconfig.dev.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\bin\Debug\netcoreapp3.1\DraftSpace.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\bin\Debug\netcoreapp3.1\DraftSpace.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\obj\Debug\netcoreapp3.1\DraftSpace.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\obj\Debug\netcoreapp3.1\DraftSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\obj\Debug\netcoreapp3.1\DraftSpace.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\obj\Debug\netcoreapp3.1\DraftSpace.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\obj\Debug\netcoreapp3.1\DraftSpace.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\obj\Debug\netcoreapp3.1\DraftSpace.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\obj\Debug\netcoreapp3.1\DraftSpace.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day06_LINQ\LinqExamples\DraftSpace\obj\Debug\netcoreapp3.1\DraftSpace.genruntimeconfig.cache
