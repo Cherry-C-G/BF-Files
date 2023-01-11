@@ -1,0 +1,23 @@
+﻿@using CourseDaoApplication.Data
+@model IEnumerable<Course>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Professor Id</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model)
+        {
+            <tr>
+                <td>@course.Name</td>
+                <td>@course.Description</td>
+                <td>@course.ProfessorId</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

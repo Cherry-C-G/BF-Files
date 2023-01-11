@@ -1,0 +1,14 @@
+﻿@using CourseDaoApplication.Data
+@model IEnumerable<Course>
+
+<form asp-controller="Course" asp-action="AddCourse" method="post">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" type="text" required>
+    </div>
+    <div>
+        <label asp-for="Description"></label>
+        <input asp-for="Description" type="text" required>
+    </div>
+    <button type="submit">Save</button>
+</form>

@@ -1,0 +1,22 @@
+﻿@using CourseDaoApplication.Data
+@model Student
+<h2>Courses for @Model.FirstName @Model.LastName</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Professor</th>
+        </tr>
+    </thead>
+    <tbody>
+@*        @foreach (var course in Model.Courses)
+        {
+            <tr>
+                <td>@course.Name</td>
+                <td>@course.Description</td>
+                <td>@course.Professor.FirstName @course.Professor.LastName</td>
+            </tr>
+        }*@
+    </tbody>
+</table>
