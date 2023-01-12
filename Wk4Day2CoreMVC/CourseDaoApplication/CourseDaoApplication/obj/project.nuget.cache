@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rFiO5oIuTdJd0S538vMaP9gxrJCB1fbMIPx8aFTZhSoN2+hFIuzFVrfOD5X/5N1Iwy+BNwKk5W5WiHqKW+8mWw==",
+  "dgSpecHash": "dW7RTHvZly4asXJICpgBh2NG8rAQ56Lx92K3oDI6qChNVezOX7nQ//hCSagxTWag5z/rFaYnlhOXN2R3gOI9Ig==",
   "success": true,
-  "projectFilePath": "C:\\Beaconfire\\Wk4Day1.NetCore\\CourseDaoApplication\\CourseDaoApplication\\CourseDaoApplication.csproj",
+  "projectFilePath": "C:\\Beaconfire\\Wk4Day2CoreMVC\\CourseDaoApplication\\CourseDaoApplication\\CourseDaoApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\celia\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\celia\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

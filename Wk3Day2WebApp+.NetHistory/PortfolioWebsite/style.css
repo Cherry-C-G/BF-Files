@@ -1,0 +1,40 @@
+/* Add your custom styles here */
+
+/* Change the color of the navbar */
+.navbar {
+    background-color: [lightblue];
+  }
+  
+  /* Change the color of the active navlink */
+  .navbar .nav-item.active {
+    background-color: [skyblue];
+  }
+  
+  /* Add a custom font for the headings */
+  h2, h3, h4 {
+    font-family: [verdana];
+  }
+  
+  /* Add a custom font for the body text */
+  body {
+    font-family: [Arial];
+  }
+  
+  /* Add custom colors for the accordion headers */
+  .card-header {
+    background-color: [powderblue];
+    color: [blue];
+  }
+  
+  /* Add custom colors for the accordion bodies */
+  .card-body {
+    background-color: [darkorchid];
+    color: [darkmagenta];
+  }
+  
+  /* Add custom colors for the list items */
+  li {
+    background-color: [plum];
+    color: [purple];
+  }
+  

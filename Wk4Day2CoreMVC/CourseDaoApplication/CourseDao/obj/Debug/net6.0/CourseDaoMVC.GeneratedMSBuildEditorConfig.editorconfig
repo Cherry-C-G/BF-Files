@@ -8,81 +8,81 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CourseDaoMVC
 build_property.RootNamespace = CourseDaoMVC
-build_property.ProjectDir = C:\Beaconfire\Wk4Day1.NetCore\CourseDaoApplication\CourseDao\
+build_property.ProjectDir = C:\Beaconfire\Wk4Day2CoreMVC\CourseDaoApplication\CourseDao\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Beaconfire\Wk4Day1.NetCore\CourseDaoApplication\CourseDao
+build_property.MSBuildProjectDirectory = C:\Beaconfire\Wk4Day2CoreMVC\CourseDaoApplication\CourseDao
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Course/Create.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Course/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Course/Delete.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Course/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Course/Detaills.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Course/Detaills.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERldGFpbGxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Course/Edit.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Course/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Course/Index.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Course/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Home/Index.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Home/Privacy.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Professor/ProfessorCourseList.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Professor/ProfessorCourseList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXFByb2Zlc3NvckNvdXJzZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Professor/ProfessorList.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Professor/ProfessorList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXFByb2Zlc3Nvckxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Retrieval/AssignProfessorToCourse.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Retrieval/AssignProfessorToCourse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0cmlldmFsXEFzc2lnblByb2Zlc3NvclRvQ291cnNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Retrieval/AssignStudentToCourse.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Retrieval/AssignStudentToCourse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0cmlldmFsXEFzc2lnblN0dWRlbnRUb0NvdXJzZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Shared/Error.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Student/StudentCourseList.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Student/StudentCourseList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTdHVkZW50Q291cnNlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Student/StudentList.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Student/StudentList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTdHVkZW50TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/_ViewImports.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/_ViewStart.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Beaconfire/Wk4Day1.NetCore/CourseDaoApplication/CourseDao/Views/Shared/_Layout.cshtml]
+[C:/Beaconfire/Wk4Day2CoreMVC/CourseDaoApplication/CourseDao/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5zm72zccqq

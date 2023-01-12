@@ -1,0 +1,501 @@
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\appsettings.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\FormExample.staticwebassets.runtime.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\FormExample.exe
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\FormExample.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\FormExample.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\FormExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\FormExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\MessagePack.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.RazorAssemblyInfo.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.RazorAssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\staticwebassets\msbuild.FormExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\staticwebassets\msbuild.build.FormExample.props
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FormExample.props
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FormExample.props
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\scopedcss\bundle\FormExample.styles.css
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\scopedcss\projectbundle\FormExample.bundle.scp.css
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.csproj.CopyComplete
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\refint\FormExample.dll
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.pdb
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.genruntimeconfig.cache
+C:\Users\gongl\OneDrive\Documents\Work\C#.net\November_Batch\Day13_CookieAuthentication\RazorSyntaxExample\FormExample\obj\Debug\net6.0\ref\FormExample.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\appsettings.Development.json
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\appsettings.json
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\FormExample.staticwebassets.runtime.json
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\FormExample.exe
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\FormExample.deps.json
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\FormExample.runtimeconfig.json
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\FormExample.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\FormExample.pdb
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Humanizer.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\MessagePack.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.Common.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.csproj.AssemblyReference.cache
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.AssemblyInfoInputs.cache
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.AssemblyInfo.cs
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.RazorAssemblyInfo.cache
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.RazorAssemblyInfo.cs
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\scopedcss\bundle\FormExample.styles.css
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\scopedcss\projectbundle\FormExample.bundle.scp.css
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.csproj.CopyComplete
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\refint\FormExample.dll
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.pdb
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\FormExample.genruntimeconfig.cache
+C:\Beaconfire\Wk4Day3Razor+Cookie Authentication\RazorSyntaxExample\RazorSyntaxExample\FormExample\obj\Debug\net6.0\ref\FormExample.dll

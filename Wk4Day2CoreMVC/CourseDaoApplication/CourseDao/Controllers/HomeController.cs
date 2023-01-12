@@ -10,17 +10,8 @@ namespace CourseDao.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly CourseDAO _courseDAO;
 
-        //public HomeController(CourseDAO courseDAO)
-        //{
-        //    _courseDAO = courseDAO;
-        //}
 
         private readonly ICourseDAO courseDAO;
-        //public HomeController(ICourseDAO courseDAO)
-        //{
-        //    this.courseDAO = courseDAO;
-        //}
-
 
         public HomeController(ILogger<HomeController> logger,ICourseDAO courseDao, CourseDAO courseDAO)
         {

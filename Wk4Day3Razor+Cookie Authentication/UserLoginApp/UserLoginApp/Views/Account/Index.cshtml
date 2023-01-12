@@ -1,0 +1,94 @@
+﻿ @using UserLoginApp.Models
+ @model IEnumerable<Account>
+
+     @{
+    ViewData["Title"] = "Index";
+}
+
+    <h2>Accounts</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>User Name</th>
+                <th>Email</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var account in Model)
+            {
+                <tr>
+                    <td>@account.UserName</td>
+                    <td>@account.Email</td>
+                    <td>
+                        <a asp-controller="Account" asp-action="Edit" asp-route-id="@account.Id">Edit</a>
+                        <a asp-controller="Account" asp-action="Delete" asp-route-id="@account.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller ="Account" asp-action="Create">Create</a>
+
+
+
+@*    @model IEnumerable<Account>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>TAccounts</h1>
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2>Category List</h2>
+        </div>
+        <div class="col-6 text-end">
+            @*<a href = "/category/create">
+            <a asp-controller = "Account" asp-action="Create" class="btn btn-primary">
+                Create new Account
+            </a>
+        </div>
+    </div>
+</div>
+
+<table class=" table table-bordered table-striped" style="width：100%">
+    <thead>
+        <tr>
+            <th>
+                Account Id
+            </th>
+            <th>
+                Account UserName
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+                <tr>
+                    <td width="30%">
+                    @item.Id
+                    </td>
+                        <td width="50%">
+                    @item.Name
+                     </td>
+                     @*table data for edit 
+                     <td width="30%">
+                         <div >
+                             <a asp-controller="Account" asp-action="Edit" asp-route-id =" @item.Id">Edit</a>
+                         </div>
+                     </td>
+                @*table data for delete 
+                         <td width="20%">
+                             <div >
+                                 <a asp-controller="Account" asp-action="Delete" asp-route-id =" @item.Id">Delete</a>
+                             </div>
+                         </td>
+                </tr>
+        }
+    </tbody>
+</table>
+
+*@

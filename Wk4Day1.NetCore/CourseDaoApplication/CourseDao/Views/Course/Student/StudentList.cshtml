@@ -1,0 +1,22 @@
+﻿@using CourseDaoApplication.Data
+@model List<Student>
+<h2>List of Students</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Number of Courses</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.FirstName @student.LastName</td>
+                <td>@student.Email</td>
+                @*<td>@student.Courses.Count</td>*@
+            </tr>
+        }
+    </tbody>
+</table>

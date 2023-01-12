@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Beaconfire\\Wk4Day1.NetCore\\CourseDaoApplication\\CourseDao\\CourseDaoMVC.csproj": {}
+    "C:\\Beaconfire\\Wk4Day2CoreMVC\\CourseDaoApplication\\CourseDao\\CourseDaoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Beaconfire\\Wk4Day1.NetCore\\CourseDaoApplication\\CourseDao\\CourseDaoMVC.csproj": {
+    "C:\\Beaconfire\\Wk4Day2CoreMVC\\CourseDaoApplication\\CourseDao\\CourseDaoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Beaconfire\\Wk4Day1.NetCore\\CourseDaoApplication\\CourseDao\\CourseDaoMVC.csproj",
+        "projectUniqueName": "C:\\Beaconfire\\Wk4Day2CoreMVC\\CourseDaoApplication\\CourseDao\\CourseDaoMVC.csproj",
         "projectName": "CourseDaoMVC",
-        "projectPath": "C:\\Beaconfire\\Wk4Day1.NetCore\\CourseDaoApplication\\CourseDao\\CourseDaoMVC.csproj",
+        "projectPath": "C:\\Beaconfire\\Wk4Day2CoreMVC\\CourseDaoApplication\\CourseDao\\CourseDaoMVC.csproj",
         "packagesPath": "C:\\Users\\celia\\.nuget\\packages\\",
-        "outputPath": "C:\\Beaconfire\\Wk4Day1.NetCore\\CourseDaoApplication\\CourseDao\\obj\\",
+        "outputPath": "C:\\Beaconfire\\Wk4Day2CoreMVC\\CourseDaoApplication\\CourseDao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,7 +53,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.12, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer.Design": {
               "target": "Package",

@@ -1,0 +1,22 @@
+﻿@model Category
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+<form method="get" asp-action="Edit">
+     <div class="mb-3">
+        <label asp-for="Id" class="display-6">Id: @Model.Id</label> 
+        
+    </div>       
+    <div class="mb-3">
+        <label asp-for="Name"></label> @*bind the attribute with Category.Name*@
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <button type="submit" class ="btn btn-primary" style="width:150px">Update</button> 
+    @*The <a> tag here is to redirect to the index page*@
+    <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width: 150px">
+        Back To List
+    </a>
+</form>
+

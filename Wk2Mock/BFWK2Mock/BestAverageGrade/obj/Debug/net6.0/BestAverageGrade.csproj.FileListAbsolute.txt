@@ -1,0 +1,15 @@
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\bin\Debug\net6.0\BestAverageGrade.exe
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\bin\Debug\net6.0\BestAverageGrade.deps.json
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\bin\Debug\net6.0\BestAverageGrade.runtimeconfig.json
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\bin\Debug\net6.0\BestAverageGrade.dll
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\bin\Debug\net6.0\BestAverageGrade.pdb
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\obj\Debug\net6.0\BestAverageGrade.csproj.AssemblyReference.cache
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\obj\Debug\net6.0\BestAverageGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\obj\Debug\net6.0\BestAverageGrade.AssemblyInfoInputs.cache
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\obj\Debug\net6.0\BestAverageGrade.AssemblyInfo.cs
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\obj\Debug\net6.0\BestAverageGrade.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\obj\Debug\net6.0\BestAverageGrade.dll
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\obj\Debug\net6.0\refint\BestAverageGrade.dll
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\obj\Debug\net6.0\BestAverageGrade.pdb
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\obj\Debug\net6.0\BestAverageGrade.genruntimeconfig.cache
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BestAverageGrade\obj\Debug\net6.0\ref\BestAverageGrade.dll

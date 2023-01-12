@@ -1,0 +1,18 @@
+﻿@using CourseDaoApplication.Data
+@model IEnumerable<Course>
+
+
+<form asp-controller="Course" asp-action="Create" method="post">
+<table>
+    <tr>
+        <th>CourseID</th>
+        <th>CourseName</th>
+    </tr>
+    @foreach (var course in Model)
+    {
+        <tr>
+            <td>@course.Id</td>
+            <td>@course.Name</td>
+        </tr>
+    }
+</table>

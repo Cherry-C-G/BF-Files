@@ -1,0 +1,20 @@
+﻿@model Category
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+<form method="post" asp-action="Delete">
+     <div class="mb-3">
+        <label asp-for="Id" class="display-6">Id: @Model.Id</label> 
+
+    </div>       
+    <div class="mb-3">
+        <label asp-for="Name" class="display-6">Name: @Model.Name</label> 
+    </div>
+    <button type="submit" class ="btn btn-primary" style="width:150px">Delete</button> 
+    @*The <a> tag here is to redirect to the index page*@
+    <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width: 150px">
+        Back To List
+    </a>
+</form>

@@ -3617,11 +3617,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Beaconfire\\Wk4Day1.NetCore\\CourseDaoApplication\\CourseDaoApplication\\CourseDaoApplication.csproj",
+      "projectUniqueName": "C:\\Beaconfire\\Wk4Day2CoreMVC\\CourseDaoApplication\\CourseDaoApplication\\CourseDaoApplication.csproj",
       "projectName": "CourseDaoApplication",
-      "projectPath": "C:\\Beaconfire\\Wk4Day1.NetCore\\CourseDaoApplication\\CourseDaoApplication\\CourseDaoApplication.csproj",
+      "projectPath": "C:\\Beaconfire\\Wk4Day2CoreMVC\\CourseDaoApplication\\CourseDaoApplication\\CourseDaoApplication.csproj",
       "packagesPath": "C:\\Users\\celia\\.nuget\\packages\\",
-      "outputPath": "C:\\Beaconfire\\Wk4Day1.NetCore\\CourseDaoApplication\\CourseDaoApplication\\obj\\",
+      "outputPath": "C:\\Beaconfire\\Wk4Day2CoreMVC\\CourseDaoApplication\\CourseDaoApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

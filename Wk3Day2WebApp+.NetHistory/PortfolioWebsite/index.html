@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Portfolio</title>
+    <!-- Include the Bootstrap CSS file -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  </head>
+  <body>
+    <!-- Add a navbar using the Bootstrap navbar component -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">My Portfolio</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="#intro">Introduction</a>
+          </li>
+          <li class="nav-item">
+            <div class="container mt-5">
+                <!-- Add a brief introduction of yourself -->
+                <div id="intro">
+                  <h2>About Me</h2>
+                  <div class="row">
+                    <div class="col-md-3">
+                      <!-- Add your avatar/photo -->
+                      <img src="C:\Beaconfire\Wk3Day2WebApp+.NetHistory\PortfolioWebsite\cute-cat-photos.jpg" alt="My phote" class="img-fluid rounded-circle" />
+                    </div>
+                    <div class="col-md-9 bg-primary-subtle" >
+                      <p>Hi, my name is Celia and I am a .Net Full Stack Developer. I am passionate about coding. In my free time, I enjoy watch movies.</p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Add your education history -->
+                <div id="education" class="mt-5">
+                  <h2>Education</h2>
+                  <div class="accordion" id="educationAccordion">
+                    <!-- Add an accordion item for each education item -->
+                    <div class="card text-bg-light mb-3">
+                      <div class="card-header" id="degree1">
+                        <h5 class="mb-0">
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            Bachelor's of Science
+                          </button>
+                        </h5>
+                      </div>
+                      <div id="collapseOne" class="collapse show" aria-labelledby="degree1" data-parent="#educationAccordion">
+                        <div class="card-body">
+                          <p>University of Nebraska-Lincoln</p>
+                          <p>Major: Actuarial Science; Minor: Math, Stats, CS</p>
+                          <p>Dec 2021</p>
+                        </div>
+                      </div>
+                    </div>
+                              <!-- Add additional accordion items for each education item -->
+        </div>
+    </div>
+    <!-- Add your professional experience -->
+    <div id="experience" class="mt-5">
+      <h2>Professional Experience</h2>
+      <div class="accordion" id="experienceAccordion">
+        <!-- Add an accordion item for each project -->
+        <div class="card">
+          <div class="card-header" id="project1">
+            <h5 class="mb-0">
+              <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                Ecommercial Application
+              </button>
+            </h5>
+          </div>
+          <div id="collapseTwo" class="collapse show" aria-labelledby="project1" data-parent="#experienceAccordion">
+            <div class="card-body">
+              <p>I have created web applications in ASP .Net Core by using MVC and Web API. 
+                For the frontend, I utilized Angular 10 for the Single Page Application with 
+                TypeScript, HTML5, CSS, Bootstrap to create web page UI. 
+                For the backend, I used C# to implement entity framework core, LINQ, and Dapper to connect with SQL Server databases. </p>
+              <!-- <p>Link to demo: <a href="demo-link.com">Demo</a></p> -->
+            </div>
+          </div>
+        </div>
+        <!-- Add additional accordion items for each project -->
+        <!-- Add a section for work experience (optional) -->
+        <div id="workExperience" class="mt-5">
+          <h3>Work Experience</h3>
+          <ul>
+            <!-- Add a list item for each work experience -->
+            <li>
+              <h4>Antra</h4>
+              <p>.Net full stack developer</p>
+            </li>
+            <!-- Add additional list items for each work experience -->
+          </ul>
+        </div>
+      </div>
+    </div>
+     <!-- Add a section for your hobbies -->
+     <div id="hobbies" class="mt-5">
+        <h2>Hobbies</h2>
+        <p>In my free time, I enjoy watch movies, cooking, and sleeping. Some of my favorite movies include Avatar1 & 2, Harry Potter, and Marvels series. I also enjoy cooking and am always looking for new recipes to try out and explore. </p>
+    </div>
+  </div>
+  <!-- Include the Bootstrap JavaScript file -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <!-- <link rel="stylesheet" type="text/css" href="style.css" />
+  <script type="text/javascript" src="script.js"></script> -->
+
+</body>
+</html>
+
+
+
+
+          

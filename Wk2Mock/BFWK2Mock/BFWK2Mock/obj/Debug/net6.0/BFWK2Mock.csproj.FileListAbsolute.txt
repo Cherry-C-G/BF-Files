@@ -1,0 +1,15 @@
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\obj\Debug\net6.0\BFWK2Mock.csproj.AssemblyReference.cache
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\obj\Debug\net6.0\BFWK2Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\obj\Debug\net6.0\BFWK2Mock.AssemblyInfoInputs.cache
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\obj\Debug\net6.0\BFWK2Mock.AssemblyInfo.cs
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\obj\Debug\net6.0\BFWK2Mock.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\bin\Debug\net6.0\BFWK2Mock.exe
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\bin\Debug\net6.0\BFWK2Mock.deps.json
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\bin\Debug\net6.0\BFWK2Mock.runtimeconfig.json
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\bin\Debug\net6.0\BFWK2Mock.dll
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\bin\Debug\net6.0\BFWK2Mock.pdb
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\obj\Debug\net6.0\BFWK2Mock.dll
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\obj\Debug\net6.0\refint\BFWK2Mock.dll
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\obj\Debug\net6.0\BFWK2Mock.pdb
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\obj\Debug\net6.0\BFWK2Mock.genruntimeconfig.cache
+C:\Beaconfire\Wk2Mock\BFWK2Mock\BFWK2Mock\obj\Debug\net6.0\ref\BFWK2Mock.dll

@@ -1,0 +1,18 @@
+﻿@using CourseDaoApplication.Data
+@model Professor
+
+@{
+    ViewData["Title"] = "Delete Professor";
+}
+
+<h2>Delete Professor</h2>
+
+<p>
+    Are you sure you want to delete <strong>@Model.FirstName + @Model.LastName </strong>?
+</p>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="ProfessorId" />
+    <input type="submit" value="Delete" class="btn btn-danger" /> |
+    <a asp-action="Index">Back to List</a>
+</form>

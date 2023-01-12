@@ -1,0 +1,20 @@
+﻿@model Category
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+@*Create a form to take user input and create a button to submit the form*@
+<form method="post" asp-action="Create">
+
+    <div class="mb-3">
+        <label asp-for="Name"></label> @*bind the attribute with Category.Name*@
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <button type="submit" class ="btn btn-primary" style="width:150px">Create</button> 
+    @*The <a> tag here is to redirect to the index page*@
+    <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width: 150px">
+        Back To List
+    </a>
+</form>
+

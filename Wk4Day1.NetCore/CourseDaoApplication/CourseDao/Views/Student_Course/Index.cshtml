@@ -1,0 +1,22 @@
+﻿@using CourseDaoApplication.Data
+@model List<Student_Course>
+
+<h2>Student_Courses</h2>
+<table class="table">
+    <tr>
+        <th>Student Id</th>
+        <th>Course Id</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var student_Course in Model)
+    {
+        <tr>
+            <td>@student_Course.StudentId</td>
+            <td>@student_Course.CourseId</td>
+            <td>
+                <a asp-action="Delete" asp-route-id="@student_Course.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+<a asp-action="Add" class="btn btn-primary">Add Student_Course</a>

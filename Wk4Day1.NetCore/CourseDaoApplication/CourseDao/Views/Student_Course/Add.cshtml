@@ -1,0 +1,21 @@
+﻿@using CourseDaoApplication.Data
+@model Student_Course
+
+@{
+    ViewData["Title"] = "Add Student Course";
+}
+
+<h2>Add Student_Course</h2>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="StudentId"></label>
+        <input asp-for="StudentId" class="form-control" />
+        <span asp-validation-for="StudentId"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CourseId"></label>
+        <input asp-for="CourseId" class="form-control" />
+        <span asp-validation-for="CourseId"></span>
+    </div>
+    <input type="submit" value="Add Student_Course" class="btn btn-primary" />
+</form>

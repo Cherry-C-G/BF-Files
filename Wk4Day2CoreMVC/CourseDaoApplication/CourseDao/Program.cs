@@ -4,14 +4,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddTransient<ICourseDAO, CourseDAO>();
+
 builder.Services.AddScoped<ICourseDAO, CourseDAO>();
-
-builder.Services.AddSqlServer<MyDbContext>(builder.Configuration.GetConnectionString("DefaultConnection"));
-
-// Add CourseDAO service
-builder.Services.AddScoped<CourseDAO>();
-//builder.Services.AddSingleton<IConfiguration>(Configuration);
 
 
 

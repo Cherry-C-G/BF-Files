@@ -1,0 +1,15 @@
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\bin\Debug\net6.0\PizzaMenu.exe
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\bin\Debug\net6.0\PizzaMenu.deps.json
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\bin\Debug\net6.0\PizzaMenu.runtimeconfig.json
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\bin\Debug\net6.0\PizzaMenu.dll
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\bin\Debug\net6.0\PizzaMenu.pdb
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\obj\Debug\net6.0\PizzaMenu.csproj.AssemblyReference.cache
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\obj\Debug\net6.0\PizzaMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\obj\Debug\net6.0\PizzaMenu.AssemblyInfoInputs.cache
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\obj\Debug\net6.0\PizzaMenu.AssemblyInfo.cs
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\obj\Debug\net6.0\PizzaMenu.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\obj\Debug\net6.0\PizzaMenu.dll
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\obj\Debug\net6.0\refint\PizzaMenu.dll
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\obj\Debug\net6.0\PizzaMenu.pdb
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\obj\Debug\net6.0\PizzaMenu.genruntimeconfig.cache
+C:\Beaconfire\Wk3Day1.Net\ADONET_HW\PizzaMenu\PizzaMenu\obj\Debug\net6.0\ref\PizzaMenu.dll
