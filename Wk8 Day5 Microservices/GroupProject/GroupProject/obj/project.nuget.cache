@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JsO+EuQu6Gev2mou4zhJgOVg6Yr+5Bof6ko4tgktzFQ4cYsWD5rHDkgS3ElA1Rp4+gHoN8XExXWluz93vdBDvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Beaconfire\\Wk8 Day5 Microservices\\GroupProject\\GroupProject\\GroupProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\celia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\celia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\celia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\celia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\celia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
