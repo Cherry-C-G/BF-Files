@@ -1,0 +1,50 @@
+
+<!--
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>login</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+-->
+<ion-content [fullscreen]="true">
+  <div class="container login__container">
+
+    <div class="container login__header__container">
+      <h2>Baby Turtle</h2>
+      <h1>Welcome Back  👋</h1>     
+      <h5>Let's Register. Take care of babies!</h5>
+    </div>
+
+
+    <div class="container login__form__container">
+      <div class="form_input form__login__input">
+        <ion-icon name="mail-outline" class="placeholder-icon"></ion-icon>
+        <ion-input
+          type="email"
+          fill="outline"
+          placeholder="E-mail"
+          class="login__input"
+          helperText="Enter a valid email"
+          errorText="Invalid email"
+          ngModel
+          email
+        ></ion-input>
+      </div>
+      <div class="form_input form__login__input">
+        <ion-icon name="key-outline" class="placeholder-icon"></ion-icon>
+        <ion-input
+          [(ngModel)]="password"
+          type="{{ showPassword ? 'text' : 'password' }}"
+          fill="outlin"
+          placeholder="Password"
+          helperText="Enter your password"
+        ></ion-input>
+        <ion-icon name="eye-outline" (click)="toggleShow()" *ngIf="!showPassword" class="placeholder-icon"></ion-icon>
+        <ion-icon name="eye-off-outline" (click)="toggleShow()" *ngIf="showPassword" class="placeholder-icon"></ion-icon>
+      </div>
+      <ion-button expand="block">Block</ion-button>
+      <a ><span>Forgot Password?</span></a>
+    </div>
+  </div>
+</ion-content>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS System Design", "MS System Design\MS System Design.csproj", "{D7C69D31-F84B-471A-AD09-B34E09356014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS System Design Recursively Check", "MS System Design Recursively Check\MS System Design Recursively Check.csproj", "{A07BA170-5E30-4FB8-9EBF-F17164CC5843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C69D31-F84B-471A-AD09-B34E09356014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C69D31-F84B-471A-AD09-B34E09356014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C69D31-F84B-471A-AD09-B34E09356014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C69D31-F84B-471A-AD09-B34E09356014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07BA170-5E30-4FB8-9EBF-F17164CC5843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07BA170-5E30-4FB8-9EBF-F17164CC5843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07BA170-5E30-4FB8-9EBF-F17164CC5843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07BA170-5E30-4FB8-9EBF-F17164CC5843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {927CAD9F-D4F2-473A-9383-425923B7BB14}
+	EndGlobalSection
+EndGlobal

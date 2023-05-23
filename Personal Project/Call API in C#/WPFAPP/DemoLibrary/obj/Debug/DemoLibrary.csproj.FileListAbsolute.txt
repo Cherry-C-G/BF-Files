@@ -1,0 +1,14 @@
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\bin\Debug\DemoLibrary.dll.config
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\obj\Debug\DemoLibrary.Properties.Resources.resources
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\obj\Debug\DemoLibrary.csproj.GenerateResource.cache
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\DemoLibrary\obj\Debug\DemoLibrary.pdb

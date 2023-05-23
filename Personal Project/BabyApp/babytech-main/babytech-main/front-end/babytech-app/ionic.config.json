@@ -1,0 +1,7 @@
+{
+  "name": "babytech-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

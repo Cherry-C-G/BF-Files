@@ -1,0 +1,15 @@
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.exe
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.deps.json
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.runtimeconfig.json
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.dll
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.pdb
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.csproj.AssemblyReference.cache
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.AssemblyInfoInputs.cache
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.AssemblyInfo.cs
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.dll
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\obj\Debug\net6.0\refint\SingletonDesignPattern.dll
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.pdb
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.genruntimeconfig.cache
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SingletonDesignPattern\obj\Debug\net6.0\ref\SingletonDesignPattern.dll

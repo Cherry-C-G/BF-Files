@@ -1,0 +1,2 @@
+FROM httpd:alpine
+COPY ./html/ /user/local/apache2/htdocs/

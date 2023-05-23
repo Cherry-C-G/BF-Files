@@ -1,0 +1,12 @@
+C:\Beaconfire\Personal Project\AzureServiceBus\ServiceBusApp\SBShared\bin\Debug\net7.0\SBShared.deps.json
+C:\Beaconfire\Personal Project\AzureServiceBus\ServiceBusApp\SBShared\bin\Debug\net7.0\SBShared.dll
+C:\Beaconfire\Personal Project\AzureServiceBus\ServiceBusApp\SBShared\bin\Debug\net7.0\SBShared.pdb
+C:\Beaconfire\Personal Project\AzureServiceBus\ServiceBusApp\SBShared\obj\Debug\net7.0\SBShared.csproj.AssemblyReference.cache
+C:\Beaconfire\Personal Project\AzureServiceBus\ServiceBusApp\SBShared\obj\Debug\net7.0\SBShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Personal Project\AzureServiceBus\ServiceBusApp\SBShared\obj\Debug\net7.0\SBShared.AssemblyInfoInputs.cache
+C:\Beaconfire\Personal Project\AzureServiceBus\ServiceBusApp\SBShared\obj\Debug\net7.0\SBShared.AssemblyInfo.cs
+C:\Beaconfire\Personal Project\AzureServiceBus\ServiceBusApp\SBShared\obj\Debug\net7.0\SBShared.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Personal Project\AzureServiceBus\ServiceBusApp\SBShared\obj\Debug\net7.0\SBShared.dll
+C:\Beaconfire\Personal Project\AzureServiceBus\ServiceBusApp\SBShared\obj\Debug\net7.0\refint\SBShared.dll
+C:\Beaconfire\Personal Project\AzureServiceBus\ServiceBusApp\SBShared\obj\Debug\net7.0\SBShared.pdb
+C:\Beaconfire\Personal Project\AzureServiceBus\ServiceBusApp\SBShared\obj\Debug\net7.0\ref\SBShared.dll

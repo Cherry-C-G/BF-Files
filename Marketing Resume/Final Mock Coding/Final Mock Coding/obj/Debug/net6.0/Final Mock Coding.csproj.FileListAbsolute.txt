@@ -1,0 +1,15 @@
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\bin\Debug\net6.0\Final Mock Coding.exe
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\bin\Debug\net6.0\Final Mock Coding.deps.json
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\bin\Debug\net6.0\Final Mock Coding.runtimeconfig.json
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\bin\Debug\net6.0\Final Mock Coding.dll
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\bin\Debug\net6.0\Final Mock Coding.pdb
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\obj\Debug\net6.0\Final Mock Coding.csproj.AssemblyReference.cache
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\obj\Debug\net6.0\Final Mock Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\obj\Debug\net6.0\Final Mock Coding.AssemblyInfoInputs.cache
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\obj\Debug\net6.0\Final Mock Coding.AssemblyInfo.cs
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\obj\Debug\net6.0\Final Mock Coding.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\obj\Debug\net6.0\Final Mock Coding.dll
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\obj\Debug\net6.0\refint\Final Mock Coding.dll
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\obj\Debug\net6.0\Final Mock Coding.pdb
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\obj\Debug\net6.0\Final Mock Coding.genruntimeconfig.cache
+C:\Beaconfire\Marketing Resume\Final Mock Coding\Final Mock Coding\obj\Debug\net6.0\ref\Final Mock Coding.dll

@@ -1,0 +1,6 @@
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\WPFAPP\obj\Debug\WPFAPP.csproj.AssemblyReference.cache
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\WPFAPP\obj\Debug\WPFAPP.csproj.SuggestedBindingRedirects.cache
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\WPFAPP\obj\Debug\MainWindow.g.cs
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\WPFAPP\obj\Debug\App.g.cs
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\WPFAPP\obj\Debug\WPFAPP_MarkupCompile.cache
+C:\Beaconfire\Personal Project\Call API in C#\WPFAPP\WPFAPP\obj\Debug\WPFAPP_MarkupCompile.lref

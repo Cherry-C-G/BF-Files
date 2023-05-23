@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/babytech/server/babyturtle/pom.xml" />
+        <option value="$PROJECT_DIR$/babytech/back-end/babyturtle/pom.xml" />
+        <option value="$PROJECT_DIR$/babytech/back-end-1/babyturtle/pom.xml" />
+        <option value="$PROJECT_DIR$/babytech-main/babytech-main/server/babyturtle/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

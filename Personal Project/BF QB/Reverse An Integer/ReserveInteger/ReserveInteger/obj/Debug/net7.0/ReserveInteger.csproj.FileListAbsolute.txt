@@ -1,0 +1,15 @@
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\obj\Debug\net7.0\ReserveInteger.csproj.AssemblyReference.cache
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\obj\Debug\net7.0\ReserveInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\obj\Debug\net7.0\ReserveInteger.AssemblyInfoInputs.cache
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\obj\Debug\net7.0\ReserveInteger.AssemblyInfo.cs
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\obj\Debug\net7.0\ReserveInteger.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\bin\Debug\net7.0\ReserveInteger.exe
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\bin\Debug\net7.0\ReserveInteger.deps.json
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\bin\Debug\net7.0\ReserveInteger.runtimeconfig.json
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\bin\Debug\net7.0\ReserveInteger.dll
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\bin\Debug\net7.0\ReserveInteger.pdb
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\obj\Debug\net7.0\ReserveInteger.dll
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\obj\Debug\net7.0\refint\ReserveInteger.dll
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\obj\Debug\net7.0\ReserveInteger.pdb
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\obj\Debug\net7.0\ReserveInteger.genruntimeconfig.cache
+C:\Beaconfire\Personal Project\BF QB\Reverse An Integer\ReserveInteger\ReserveInteger\obj\Debug\net7.0\ref\ReserveInteger.dll

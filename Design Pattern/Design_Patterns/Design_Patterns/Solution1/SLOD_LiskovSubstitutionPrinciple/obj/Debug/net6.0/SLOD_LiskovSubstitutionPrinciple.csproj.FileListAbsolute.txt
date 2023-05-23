@@ -1,0 +1,30 @@
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\bin\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.exe
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\bin\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\bin\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\bin\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.dll
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\bin\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.pdb
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.dll
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\refint\SLOD_LiskovSubstitutionPrinciple.dll
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.pdb
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.genruntimeconfig.cache
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\ref\SLOD_LiskovSubstitutionPrinciple.dll
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\bin\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.exe
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\bin\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.deps.json
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\bin\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\bin\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.dll
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\bin\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.pdb
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.dll
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\refint\SLOD_LiskovSubstitutionPrinciple.dll
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.pdb
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\SLOD_LiskovSubstitutionPrinciple.genruntimeconfig.cache
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\SLOD_LiskovSubstitutionPrinciple\obj\Debug\net6.0\ref\SLOD_LiskovSubstitutionPrinciple.dll

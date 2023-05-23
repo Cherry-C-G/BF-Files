@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SLOD_LiskovSubstitutionPrinciple", "SLOD_LiskovSubstitutionPrinciple\SLOD_LiskovSubstitutionPrinciple.csproj", "{8FC13CCD-8B8C-42C2-964B-C4FE99FF7480}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID_InterfaceSegregationPrinciple", "SOLID_InterfaceSegregationPrinciple\SOLID_InterfaceSegregationPrinciple.csproj", "{E1DAA7E0-AE00-4014-9BC3-5BB61F76366B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonDesignPattern", "SingletonDesignPattern\SingletonDesignPattern.csproj", "{39294F35-3B28-4345-91BF-8902E8F95699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPattern_SimpleFactory", "FactoryDesignPattern_SimpleFactory\FactoryDesignPattern_SimpleFactory.csproj", "{D59242CA-2204-4FCD-A5B1-26AF237D4E6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPattern_AbstractFactory", "FactoryDesignPattern_AbstractFactory\FactoryDesignPattern_AbstractFactory.csproj", "{BD0F0BA9-765C-441E-BFD6-9077982F46E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FC13CCD-8B8C-42C2-964B-C4FE99FF7480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC13CCD-8B8C-42C2-964B-C4FE99FF7480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC13CCD-8B8C-42C2-964B-C4FE99FF7480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC13CCD-8B8C-42C2-964B-C4FE99FF7480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1DAA7E0-AE00-4014-9BC3-5BB61F76366B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1DAA7E0-AE00-4014-9BC3-5BB61F76366B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1DAA7E0-AE00-4014-9BC3-5BB61F76366B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1DAA7E0-AE00-4014-9BC3-5BB61F76366B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39294F35-3B28-4345-91BF-8902E8F95699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39294F35-3B28-4345-91BF-8902E8F95699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39294F35-3B28-4345-91BF-8902E8F95699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39294F35-3B28-4345-91BF-8902E8F95699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D59242CA-2204-4FCD-A5B1-26AF237D4E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59242CA-2204-4FCD-A5B1-26AF237D4E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59242CA-2204-4FCD-A5B1-26AF237D4E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59242CA-2204-4FCD-A5B1-26AF237D4E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0F0BA9-765C-441E-BFD6-9077982F46E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0F0BA9-765C-441E-BFD6-9077982F46E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0F0BA9-765C-441E-BFD6-9077982F46E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0F0BA9-765C-441E-BFD6-9077982F46E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9DF09FD-7466-45FB-891E-393098F24FD6}
+	EndGlobalSection
+EndGlobal

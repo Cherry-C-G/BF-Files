@@ -1,0 +1,53 @@
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\MS System Design.exe
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\MS System Design.deps.json
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\MS System Design.runtimeconfig.json
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\MS System Design.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\MS System Design.pdb
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\Enums.NET.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\NPOI.OOXML.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\NPOI.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\MS System Design.csproj.AssemblyReference.cache
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\MS System Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\MS System Design.AssemblyInfoInputs.cache
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\MS System Design.AssemblyInfo.cs
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\MS System Design.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\MS System Design.MvcApplicationPartsAssemblyInfo.cs
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\MS System Design.MvcApplicationPartsAssemblyInfo.cache
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\staticwebassets\msbuild.MS System Design.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\staticwebassets\msbuild.build.MS System Design.props
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MS System Design.props
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MS System Design.props
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\staticwebassets.build.json
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\staticwebassets.development.json
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\scopedcss\bundle\MS System Design.styles.css
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\MS System Design.csproj.CopyComplete
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\MS System Design.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\refint\MS System Design.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\MS System Design.pdb
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\MS System Design.genruntimeconfig.cache
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design\obj\Debug\net7.0\ref\MS System Design.dll

@@ -1,0 +1,15 @@
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\bin\Debug\net7.0\MS System Design Recursively Check.exe
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\bin\Debug\net7.0\MS System Design Recursively Check.deps.json
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\bin\Debug\net7.0\MS System Design Recursively Check.runtimeconfig.json
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\bin\Debug\net7.0\MS System Design Recursively Check.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\bin\Debug\net7.0\MS System Design Recursively Check.pdb
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\obj\Debug\net7.0\MS System Design Recursively Check.csproj.AssemblyReference.cache
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\obj\Debug\net7.0\MS System Design Recursively Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\obj\Debug\net7.0\MS System Design Recursively Check.AssemblyInfoInputs.cache
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\obj\Debug\net7.0\MS System Design Recursively Check.AssemblyInfo.cs
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\obj\Debug\net7.0\MS System Design Recursively Check.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\obj\Debug\net7.0\MS System Design Recursively Check.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\obj\Debug\net7.0\refint\MS System Design Recursively Check.dll
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\obj\Debug\net7.0\MS System Design Recursively Check.pdb
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\obj\Debug\net7.0\MS System Design Recursively Check.genruntimeconfig.cache
+C:\Beaconfire\Personal Project\BF QB\System Design Question\MS System Design\MS System Design Recursively Check\obj\Debug\net7.0\ref\MS System Design Recursively Check.dll

@@ -1,0 +1,30 @@
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\bin\Debug\net6.0\FactoryDesignPattern_SimpleFactory.exe
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\bin\Debug\net6.0\FactoryDesignPattern_SimpleFactory.deps.json
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\bin\Debug\net6.0\FactoryDesignPattern_SimpleFactory.runtimeconfig.json
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\bin\Debug\net6.0\FactoryDesignPattern_SimpleFactory.dll
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\bin\Debug\net6.0\FactoryDesignPattern_SimpleFactory.pdb
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.csproj.AssemblyReference.cache
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.AssemblyInfoInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.AssemblyInfo.cs
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.dll
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\refint\FactoryDesignPattern_SimpleFactory.dll
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.pdb
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.genruntimeconfig.cache
+C:\Users\gongl\OneDrive\Documents\Work\Csharp_dotnet\November_Batch\.NET(Dec)\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\ref\FactoryDesignPattern_SimpleFactory.dll
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\bin\Debug\net6.0\FactoryDesignPattern_SimpleFactory.exe
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\bin\Debug\net6.0\FactoryDesignPattern_SimpleFactory.deps.json
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\bin\Debug\net6.0\FactoryDesignPattern_SimpleFactory.runtimeconfig.json
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\bin\Debug\net6.0\FactoryDesignPattern_SimpleFactory.dll
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\bin\Debug\net6.0\FactoryDesignPattern_SimpleFactory.pdb
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.csproj.AssemblyReference.cache
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.AssemblyInfoInputs.cache
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.AssemblyInfo.cs
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.dll
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\refint\FactoryDesignPattern_SimpleFactory.dll
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.pdb
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\FactoryDesignPattern_SimpleFactory.genruntimeconfig.cache
+C:\Beaconfire\Design Pattern\Design_Patterns\Design_Patterns\Solution1\FactoryDesignPattern_SimpleFactory\obj\Debug\net6.0\ref\FactoryDesignPattern_SimpleFactory.dll

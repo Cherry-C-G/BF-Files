@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MS System Design Recursively Check/1.0.0": {
+        "runtime": {
+          "MS System Design Recursively Check.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MS System Design Recursively Check/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
